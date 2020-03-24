@@ -1,0 +1,5 @@
+alias ls='ls --color=auto'
+alias cfg='vim ~/.config/i3/config'
+alias grep='grep --color=auto'
+alias tea='tee -a'
+alias wifi='nmcli device wifi'

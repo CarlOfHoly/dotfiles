@@ -1,0 +1,12 @@
+[user]
+	email = carl.smestad@gmail.com
+	name = Carl Smestad
+[alias]
+	st = status
+	co = checkout
+	cob = checkout -b
+	a = add
+	c = commit
+	p = push
+[core]
+	editor = vim

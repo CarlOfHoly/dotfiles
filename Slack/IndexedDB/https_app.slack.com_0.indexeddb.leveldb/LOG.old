@@ -1,0 +1,6 @@
+2020/03/24-18:39:14.708 380 Reusing MANIFEST /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/24-18:39:14.709 380 Recovering log #872
+2020/03/24-18:39:14.715 380 Reusing old log /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000872.log 
+2020/03/24-18:39:24.156 5c3 Level-0 table #876: started
+2020/03/24-18:39:24.174 5c3 Level-0 table #876: 1498034 bytes OK
+2020/03/24-18:39:24.178 5c3 Delete type=0 #872

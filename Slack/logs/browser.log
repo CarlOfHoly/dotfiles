@@ -15008,3 +15008,474 @@
 [03/24/20, 18:55:22:355] info: Creating new Electron notification. 
 [03/24/20, 18:56:55:994] info: Store: SET_SYSTEM_IDLE idle_taskbar
 [03/24/20, 18:57:06:000] info: Store: SET_SYSTEM_IDLE active
+[03/24/20, 18:58:01:458] info: Store: NEW_NOTIFICATION 
+{
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "mzWfAF9Aklvg3G",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072680.006000&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+}
+[03/24/20, 18:58:01:460] info: Creating new Electron notification. 
+[03/24/20, 18:58:01:875] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 18:58:10:065] info: Store: NEW_NOTIFICATION 
+{
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "jwWcZI7AqzyrQD",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072689.006300&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+}
+[03/24/20, 18:58:10:066] info: Creating new Electron notification. 
+[03/24/20, 18:58:50:366] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 18:58:50:371] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 18:58:51:720] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 18:58:51:722] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:00:26:075] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[03/24/20, 19:01:36:854] info: Store: NEW_NOTIFICATION 
+{
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "NrofoTR1WxKxWP",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072896.006700&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+}
+[03/24/20, 19:01:36:855] info: Creating new Electron notification. 
+[03/24/20, 19:01:39:373] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:39:375] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:41:937] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:41:991] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:42:449] info: Store: SELECTION_CHANGED T03KF4NH2
+[03/24/20, 19:01:42:597] info: Store: REDUX_UPDATE_FROM_WEBAPP (T03KF4NH2) Changed keys [unreads]
+[03/24/20, 19:01:46:107] info: Store: SET_SYSTEM_IDLE active
+[03/24/20, 19:01:47:847] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:47:884] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:48:246] info: Store: SELECTION_CHANGED TPFGVDSR1
+[03/24/20, 19:01:49:901] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:51:359] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:01:51:425] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:02:10:003] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:10:005] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:11:812] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:11:816] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:19:676] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:21:005] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:02:21:043] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:21:083] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:02:26:148] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:29:703] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:29:756] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:30:168] info: Store: SELECTION_CHANGED T03HMPJ8R
+[03/24/20, 19:02:32:534] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:32:555] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:32:796] info: Store: SELECTION_CHANGED T03S8TX18
+[03/24/20, 19:02:34:278] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:35:884] info: Store: REDUX_UPDATE_FROM_WEBAPP (T03S8TX18) Changed keys [unreads]
+[03/24/20, 19:02:35:963] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:37:897] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:37:930] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:38:254] info: Store: SELECTION_CHANGED T03HMPJ8R
+[03/24/20, 19:02:40:680] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:40:713] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:02:40:992] info: Store: SELECTION_CHANGED TPFGVDSR1
+[03/24/20, 19:02:41:778] info: Store: NEW_NOTIFICATION 
+{
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "YJDiocVEWKRMEL",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072961.006900&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+}
+[03/24/20, 19:02:41:781] info: Creating new Electron notification. 
+[03/24/20, 19:02:41:946] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:02:43:737] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "title": "[REDACTED]"
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:03:18:331] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:03:18:335] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:03:18:891] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:03:18:904] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:01:633] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:01:644] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:03:548] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:03:552] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:09:032] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:04:09:107] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:04:26:171] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[03/24/20, 19:04:30:767] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:04:30:834] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads]
+[03/24/20, 19:04:36:179] info: Store: SET_SYSTEM_IDLE active
+[03/24/20, 19:04:52:927] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:52:939] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:53:953] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:04:53:957] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:05:16:201] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[03/24/20, 19:05:34:905] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:05:34:919] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:05:36:209] info: Store: SET_SYSTEM_IDLE active
+[03/24/20, 19:05:46:654] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:05:46:656] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": true
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:05:48:531] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFullScreen": false
+  },
+  "fromEvent": true
+}
+[03/24/20, 19:05:48:535] info: Store: SET_WINDOW_FRAME 
+{
+  "id": 1,
+  "frame": {
+    "isFocused": false
+  },
+  "fromEvent": true
+}

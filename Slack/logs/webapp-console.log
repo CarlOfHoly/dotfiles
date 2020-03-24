@@ -5075,3 +5075,896 @@
 } 
 [03/24/20, 18:56:56:020] info: Store: SET_SYSTEM_IDLE idle_taskbar 
 [03/24/20, 18:57:06:015] info: Store: SET_SYSTEM_IDLE active 
+[03/24/20, 18:58:01:090] info: [API-Q] (TPFGVDSR1) noversion-1585072681.087 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 18:58:01:090] info: [API-Q] (TPFGVDSR1) noversion-1585072681.087 Flannel users/counts is ENQUEUED 
+[03/24/20, 18:58:01:092] info: [API-Q] (TPFGVDSR1) noversion-1585072681.087 Flannel users/counts is ACTIVE 
+[03/24/20, 18:58:01:415] info: [API-Q] (TPFGVDSR1) noversion-1585072681.087 Flannel users/counts is RESOLVED 
+[03/24/20, 18:58:01:444] error: [DESKTOP] 'desktop.notice.shouldPlaySound' is missing or not a function 
+[03/24/20, 18:58:01:450] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for CPFHUA3GB: 4 
+[03/24/20, 18:58:01:454] info: [COUNTS] (TPFGVDSR1) Updated unread_highlight_cnt for CPFHUA3GB: 1 
+[03/24/20, 18:58:01:471] info: Store: NEW_NOTIFICATION {
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "mzWfAF9Aklvg3G",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072680.006000&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+} 
+[03/24/20, 18:58:01:874] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 18:58:01:884] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 18:58:10:057] error: [DESKTOP] 'desktop.notice.shouldPlaySound' is missing or not a function 
+[03/24/20, 18:58:10:060] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for CPFHUA3GB: 5 
+[03/24/20, 18:58:10:073] info: Store: NEW_NOTIFICATION {
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "jwWcZI7AqzyrQD",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072689.006300&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+} 
+[03/24/20, 18:58:50:453] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 18:58:50:484] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 18:58:50:544] info: [CHECK-UNREADS] (TSEDTE2H0) Checking unreads after window became focused 
+[03/24/20, 18:58:50:544] info: [CHECK-UNREADS] (TSEDTE2H0) Not marking DSGKFH7SP because attention not on chat (window_not_focused) 
+[03/24/20, 18:58:50:561] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 18:58:50:661] info: [CHECK-UNREADS] (TSEDTE2H0) Checking unreads after window became focused 
+[03/24/20, 18:58:50:662] info: [CHECK-UNREADS] (TSEDTE2H0) Not marking DSGKFH7SP because last_read >= latest && channel is read 
+[03/24/20, 18:58:51:776] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 18:58:51:864] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 18:58:51:873] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 18:59:50:942] info: [DND] (TSEDTE2H0) Checking for changes in DND status for the following members: USV3B6831,USTKTC9K6,USSTCPY2G,USTFBRX29,USH0DHXGB,USFULS5BM,USTB4S64V 
+[03/24/20, 18:59:50:943] info: [DND] (TSEDTE2H0) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:00:26:089] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[03/24/20, 19:00:49:603] info: [CHECK-FOR-OLD-IMS] (TSEDTE2H0) Within limit: 10 
+[03/24/20, 19:00:50:325] info: [CHECK-FOR-OLD-IMS] (TPFGVDSR1) Within limit: 11 
+[03/24/20, 19:00:51:175] info: [CHECK-FOR-OLD-IMS] (TCZ97144A) Within limit: 11 
+[03/24/20, 19:00:51:800] info: [CHECK-FOR-OLD-IMS] (TFKDG2MCK) Within limit: 11 
+[03/24/20, 19:00:52:576] info: [CHECK-FOR-OLD-IMS] (T03S8TX18) Within limit: 7 
+[03/24/20, 19:00:53:014] info: [CHECK-FOR-OLD-IMS] (T03HMPJ8R) Within limit: 10 
+[03/24/20, 19:00:53:742] info: [CHECK-FOR-OLD-IMS] (T03KF4NH2) Within limit: 11 
+[03/24/20, 19:01:04:133] info: [UNREAD-COUNTS] (T03KF4NH2) Counting unreads in C03KF4NHA because (1) timestamps added 
+[03/24/20, 19:01:04:133] info: [COUNTS] (T03KF4NH2) Updated unread_cnt for C03KF4NHA: 3 
+[03/24/20, 19:01:04:137] info: [UNREAD-COUNTS] (T03KF4NH2) Checking unreads in C03KF4NHA after a new message 
+[03/24/20, 19:01:04:137] info: [CHECK-UNREADS] (T03KF4NH2) Not marking C03KF4NHA because attention not on chat (workspace_not_focused) 
+[03/24/20, 19:01:36:825] error: [DESKTOP] 'desktop.notice.shouldPlaySound' is missing or not a function 
+[03/24/20, 19:01:36:849] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for CPFHUA3GB: 6 
+[03/24/20, 19:01:36:866] info: [API-Q] (TPFGVDSR1) noversion-1585072896.864 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:01:36:866] info: [API-Q] (TPFGVDSR1) noversion-1585072896.864 Flannel users/info is ENQUEUED 
+[03/24/20, 19:01:36:866] info: [API-Q] (TPFGVDSR1) noversion-1585072896.864 Flannel users/info is ACTIVE 
+[03/24/20, 19:01:36:867] info: Store: NEW_NOTIFICATION {
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "NrofoTR1WxKxWP",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072896.006700&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+} 
+[03/24/20, 19:01:37:821] info: [API-Q] (TPFGVDSR1) noversion-1585072896.864 Flannel users/info is RESOLVED 
+[03/24/20, 19:01:39:392] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 19:01:39:490] info: [CHECK-UNREADS] (TSEDTE2H0) Checking unreads after window became focused 
+[03/24/20, 19:01:39:491] info: [CHECK-UNREADS] (TSEDTE2H0) Not marking DSGKFH7SP because last_read >= latest && channel is read 
+[03/24/20, 19:01:39:508] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:39:530] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:39:605] info: [CHECK-UNREADS] (TSEDTE2H0) Checking unreads after window became focused 
+[03/24/20, 19:01:39:605] info: [CHECK-UNREADS] (TSEDTE2H0) Not marking DSGKFH7SP because last_read >= latest && channel is read 
+[03/24/20, 19:01:41:818] info: [SWITCH-TO-CHANNEL] (T03KF4NH2) Switching to C03KF4NHA at last_read 1584986134.061400 
+[03/24/20, 19:01:41:997] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:01:42:057] error: [DESKTOP] 'desktop.stats.performance.timeSpentInPreload' is missing or not a function 
+[03/24/20, 19:01:42:059] info: [DRAFTS] (T03KF4NH2) There are no channels with drafts 
+[03/24/20, 19:01:42:063] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.061 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[03/24/20, 19:01:42:064] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.061 apps.getSidebarPrompts is ENQUEUED 
+[03/24/20, 19:01:42:064] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.061 apps.getSidebarPrompts is ACTIVE 
+[03/24/20, 19:01:42:232] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.231 conversations.replies called with reason: history-api/fetchReplies 
+[03/24/20, 19:01:42:233] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.231 conversations.replies is ENQUEUED 
+[03/24/20, 19:01:42:234] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.231 conversations.replies is ACTIVE 
+[03/24/20, 19:01:42:488] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[03/24/20, 19:01:42:527] info: [CHECK-UNREADS] (T03KF4NH2) unreadLineVisible updated: false -> true 
+[03/24/20, 19:01:42:547] info: [CHECK-UNREADS] (T03KF4NH2) Checking unreads after workspace became focused 
+[03/24/20, 19:01:42:547] info: [CHECK-UNREADS] (T03KF4NH2) Marking C03KF4NHA because unread line is visible 
+[03/24/20, 19:01:42:549] info: [SET-LAST-READ] (T03KF4NH2) markLastRead C03KF4NHA:1585072863.062500, immediate: undefined 
+[03/24/20, 19:01:42:553] info: [SET-LAST-READ] (T03KF4NH2) delaying C03KF4NHA mark by 4342.947859204165ms 
+[03/24/20, 19:01:42:555] info: [UNREAD-COUNTS] (T03KF4NH2) Counting unreads in C03KF4NHA because last_read changed to 1585072863.062500 
+[03/24/20, 19:01:42:555] info: [COUNTS] (T03KF4NH2) Updated unread_cnt for C03KF4NHA: 0 
+[03/24/20, 19:01:42:596] info: [DESKTOP-MIDDLEWARE] (T03KF4NH2) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:01:42:601] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:42:616] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:42:634] info: Store: SELECTION_CHANGED T03KF4NH2 
+[03/24/20, 19:01:42:651] info: [API-Q] (T03KF4NH2) noversion-1585072902.644 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:01:42:652] info: [API-Q] (T03KF4NH2) noversion-1585072902.644 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:01:42:652] info: [API-Q] (T03KF4NH2) noversion-1585072902.644 Flannel users/counts is ACTIVE 
+[03/24/20, 19:01:42:658] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.653 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[03/24/20, 19:01:42:660] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.653 help.issues.list is ENQUEUED 
+[03/24/20, 19:01:42:662] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.653 help.issues.list is ACTIVE 
+[03/24/20, 19:01:42:667] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.664 users.channelSections.list called with reason: channel_sections_list 
+[03/24/20, 19:01:42:667] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.664 users.channelSections.list is ENQUEUED 
+[03/24/20, 19:01:42:667] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.664 users.channelSections.list is ACTIVE 
+[03/24/20, 19:01:42:670] info: [HISTORY-CFM] (T03KF4NH2) Re-fetching C03KF4NHA-1583925228.045400 1583925477.045500 - 1583925645.046100 
+[03/24/20, 19:01:42:678] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.671 conversations.replies called with reason: channel-history-store.CFM.fetch 
+[03/24/20, 19:01:42:678] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.671 conversations.replies is ENQUEUED 
+[03/24/20, 19:01:42:679] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.671 conversations.replies is ACTIVE 
+[03/24/20, 19:01:42:685] info: [API-Q] (T03KF4NH2) noversion-1585072902.682 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:01:42:685] info: [API-Q] (T03KF4NH2) noversion-1585072902.682 Flannel users/info is ENQUEUED 
+[03/24/20, 19:01:42:686] info: [API-Q] (T03KF4NH2) noversion-1585072902.682 Flannel users/info is ACTIVE 
+[03/24/20, 19:01:42:762] info: Store: REDUX_UPDATE_FROM_WEBAPP (T03KF4NH2) Changed keys [unreads] 
+[03/24/20, 19:01:42:892] info: [DND] (T03KF4NH2) Preparing to fetch DND times for the following members: UN22VSX17,U03KF4NH4,UDSNQN0TS,UCZHP4Q5Q,U0429FZE8,U94LQ47L7,UCZ104G1X,UN8F05W3F 
+[03/24/20, 19:01:42:895] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.892 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[03/24/20, 19:01:42:895] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.892 dnd.info is ENQUEUED 
+[03/24/20, 19:01:42:895] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.892 dnd.info is ACTIVE 
+[03/24/20, 19:01:42:898] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.896 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[03/24/20, 19:01:42:899] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.896 dnd.teamInfo is ENQUEUED 
+[03/24/20, 19:01:42:899] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.896 dnd.teamInfo is ACTIVE 
+[03/24/20, 19:01:42:942] info: [CHECK-UNREADS] (T03KF4NH2) Checking unreads after unread line became visible 
+[03/24/20, 19:01:42:942] info: [CHECK-UNREADS] (T03KF4NH2) Not marking C03KF4NHA because last_read >= latest && channel is read 
+[03/24/20, 19:01:43:404] info: [API-Q] (T03KF4NH2) noversion-1585072902.682 Flannel users/info is RESOLVED 
+[03/24/20, 19:01:43:419] info: [API-Q] (T03KF4NH2) noversion-1585072902.644 Flannel users/counts is RESOLVED 
+[03/24/20, 19:01:43:557] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.231 conversations.replies is RESOLVED 
+[03/24/20, 19:01:43:560] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.664 users.channelSections.list is RESOLVED 
+[03/24/20, 19:01:43:632] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.671 conversations.replies is RESOLVED 
+[03/24/20, 19:01:43:633] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.061 apps.getSidebarPrompts is RESOLVED 
+[03/24/20, 19:01:43:667] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.892 dnd.info is RESOLVED 
+[03/24/20, 19:01:43:707] info: [DND] (T03KF4NH2) Fetched DND info for the following member: UN22VSX17 
+[03/24/20, 19:01:43:709] info: [DND] (T03KF4NH2) Checking for changes in DND status for the following members: UN22VSX17 
+[03/24/20, 19:01:43:711] info: [DND] (T03KF4NH2) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:01:43:711] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.896 dnd.teamInfo is RESOLVED 
+[03/24/20, 19:01:43:744] info: [DND] (T03KF4NH2) Fetched DND info for the following members: U03KF4NH4,UDSNQN0TS,UCZHP4Q5Q,U0429FZE8,U94LQ47L7,UCZ104G1X,UN8F05W3F 
+[03/24/20, 19:01:43:746] info: [DND] (T03KF4NH2) Checking for changes in DND status for the following members: UN22VSX17,U03KF4NH4,UDSNQN0TS,UCZHP4Q5Q,U0429FZE8,U94LQ47L7,UCZ104G1X,UN8F05W3F 
+[03/24/20, 19:01:43:756] info: [DND] (T03KF4NH2) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:01:43:760] info: [API-Q] (T03KF4NH2) 1767a128-1585072902.653 help.issues.list is RESOLVED 
+[03/24/20, 19:01:45:643] info: [API-Q] (T03KF4NH2) 1767a128-1585072905.632 reactions.add called with reason: changeReactionFromUserAction 
+[03/24/20, 19:01:45:645] info: [API-Q] (T03KF4NH2) 1767a128-1585072905.632 reactions.add is ENQUEUED 
+[03/24/20, 19:01:45:646] info: [API-Q] (T03KF4NH2) 1767a128-1585072905.632 reactions.add is ACTIVE 
+[03/24/20, 19:01:46:089] info: [API-Q] (T03KF4NH2) 1767a128-1585072905.632 reactions.add is RESOLVED 
+[03/24/20, 19:01:46:134] info: Store: SET_SYSTEM_IDLE active 
+[03/24/20, 19:01:46:897] info: [SET-LAST-READ] (T03KF4NH2) delay resolved, marking C03KF4NHA with API 
+[03/24/20, 19:01:46:914] info: [API-Q] (T03KF4NH2) 1767a128-1585072906.908 conversations.mark called with reason: viewed 
+[03/24/20, 19:01:46:916] info: [API-Q] (T03KF4NH2) 1767a128-1585072906.908 conversations.mark is ENQUEUED 
+[03/24/20, 19:01:46:918] info: [API-Q] (T03KF4NH2) 1767a128-1585072906.908 conversations.mark is ACTIVE 
+[03/24/20, 19:01:47:261] info: [API-Q] (T03KF4NH2) 1767a128-1585072906.908 conversations.mark is RESOLVED 
+[03/24/20, 19:01:47:785] info: [SWITCH-TO-CHANNEL] (TPFGVDSR1) Switching to CPT19MU48 at end 
+[03/24/20, 19:01:47:886] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:01:47:899] error: [DESKTOP] 'desktop.stats.performance.timeSpentInPreload' is missing or not a function 
+[03/24/20, 19:01:47:900] info: [DRAFTS] (TPFGVDSR1) There are no channels with drafts 
+[03/24/20, 19:01:47:901] info: [API-Q] (TPFGVDSR1) 1767a128-1585072907.900 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[03/24/20, 19:01:47:902] info: [API-Q] (TPFGVDSR1) 1767a128-1585072907.900 apps.getSidebarPrompts is ENQUEUED 
+[03/24/20, 19:01:47:902] info: [API-Q] (TPFGVDSR1) 1767a128-1585072907.900 apps.getSidebarPrompts is ACTIVE 
+[03/24/20, 19:01:48:017] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.015 conversations.replies called with reason: history-api/fetchReplies 
+[03/24/20, 19:01:48:017] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.015 conversations.replies is ENQUEUED 
+[03/24/20, 19:01:48:017] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.015 conversations.replies is ACTIVE 
+[03/24/20, 19:01:48:266] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[03/24/20, 19:01:48:314] info: [CHECK-UNREADS] (TPFGVDSR1) unreadLineVisible updated: false -> true 
+[03/24/20, 19:01:48:336] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after workspace became focused 
+[03/24/20, 19:01:48:336] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking CPT19MU48 because last_read >= latest && channel is read 
+[03/24/20, 19:01:48:382] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:48:394] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:48:396] info: Store: SELECTION_CHANGED TPFGVDSR1 
+[03/24/20, 19:01:48:407] info: [API-Q] (TPFGVDSR1) noversion-1585072908.403 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:01:48:408] info: [API-Q] (TPFGVDSR1) noversion-1585072908.403 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:01:48:408] info: [API-Q] (TPFGVDSR1) noversion-1585072908.403 Flannel users/counts is ACTIVE 
+[03/24/20, 19:01:48:415] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.409 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[03/24/20, 19:01:48:416] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.409 help.issues.list is ENQUEUED 
+[03/24/20, 19:01:48:418] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.409 help.issues.list is ACTIVE 
+[03/24/20, 19:01:48:426] info: [API-Q] (TPFGVDSR1) noversion-1585072908.422 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:01:48:426] info: [API-Q] (TPFGVDSR1) noversion-1585072908.422 Flannel users/info is ENQUEUED 
+[03/24/20, 19:01:48:427] info: [API-Q] (TPFGVDSR1) noversion-1585072908.422 Flannel users/info is ACTIVE 
+[03/24/20, 19:01:48:431] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.428 subscriptions.thread.get called with reason: fetch-thread-subscriptions 
+[03/24/20, 19:01:48:431] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.428 subscriptions.thread.get is ENQUEUED 
+[03/24/20, 19:01:48:431] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.428 subscriptions.thread.get is ACTIVE 
+[03/24/20, 19:01:48:435] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.433 users.channelSections.list called with reason: channel_sections_list 
+[03/24/20, 19:01:48:436] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.433 users.channelSections.list is ENQUEUED 
+[03/24/20, 19:01:48:436] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.433 users.channelSections.list is ACTIVE 
+[03/24/20, 19:01:48:437] info: [HISTORY-CFM] (TPFGVDSR1) Re-fetching CPFGVE8EP-1584721090.000400 1584721090.000400 - 1584724774.002800 
+[03/24/20, 19:01:48:439] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.437 conversations.replies called with reason: channel-history-store.CFM.fetch 
+[03/24/20, 19:01:48:440] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.437 conversations.replies is ENQUEUED 
+[03/24/20, 19:01:48:440] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.437 conversations.replies is ACTIVE 
+[03/24/20, 19:01:48:445] info: [API-Q] (TPFGVDSR1) noversion-1585072908.442 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:01:48:445] info: [API-Q] (TPFGVDSR1) noversion-1585072908.442 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:01:48:445] info: [API-Q] (TPFGVDSR1) noversion-1585072908.442 Flannel users/counts is ACTIVE 
+[03/24/20, 19:01:48:613] info: [DND] (TPFGVDSR1) Preparing to fetch DND times for the following members: UPT2BCF3J,UPUT4LFEK,UPE7NU5K4,UPT257TE1,UPE8A1W02,UPT19MF5E,UPFHK4TL3,UPFHEN2M9,UPT1W9ZDE 
+[03/24/20, 19:01:48:619] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.613 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[03/24/20, 19:01:48:620] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.613 dnd.info is ENQUEUED 
+[03/24/20, 19:01:48:622] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.613 dnd.info is ACTIVE 
+[03/24/20, 19:01:48:626] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.621 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[03/24/20, 19:01:48:626] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.621 dnd.teamInfo is ENQUEUED 
+[03/24/20, 19:01:48:696] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after unread line became visible 
+[03/24/20, 19:01:48:698] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking CPT19MU48 because last_read >= latest && channel is read 
+[03/24/20, 19:01:48:828] info: [API-Q] (TPFGVDSR1) noversion-1585072908.403 Flannel users/counts is RESOLVED 
+[03/24/20, 19:01:48:829] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.621 dnd.teamInfo is ACTIVE 
+[03/24/20, 19:01:48:829] info: [API-Q] (TPFGVDSR1) noversion-1585072908.422 Flannel users/info is RESOLVED 
+[03/24/20, 19:01:48:832] info: [API-Q] (TPFGVDSR1) noversion-1585072908.442 Flannel users/counts is RESOLVED 
+[03/24/20, 19:01:49:207] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.409 help.issues.list is RESOLVED 
+[03/24/20, 19:01:49:219] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.428 subscriptions.thread.get is RESOLVED 
+[03/24/20, 19:01:49:311] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.433 users.channelSections.list is RESOLVED 
+[03/24/20, 19:01:49:312] info: [API-Q] (TPFGVDSR1) 1767a128-1585072907.900 apps.getSidebarPrompts is RESOLVED 
+[03/24/20, 19:01:49:314] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.437 conversations.replies is RESOLVED 
+[03/24/20, 19:01:49:487] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.613 dnd.info is RESOLVED 
+[03/24/20, 19:01:49:488] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.015 conversations.replies is RESOLVED 
+[03/24/20, 19:01:49:595] info: [DND] (TPFGVDSR1) Fetched DND info for the following member: UPT2BCF3J 
+[03/24/20, 19:01:49:605] info: [DND] (TPFGVDSR1) Checking for changes in DND status for the following members: UPT2BCF3J 
+[03/24/20, 19:01:49:610] info: [DND] (TPFGVDSR1) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:01:49:710] info: [API-Q] (TPFGVDSR1) 1767a128-1585072908.621 dnd.teamInfo is RESOLVED 
+[03/24/20, 19:01:49:714] info: [DND] (TPFGVDSR1) Fetched DND info for the following members: UPUT4LFEK,UPE7NU5K4,UPT257TE1,UPE8A1W02,UPT19MF5E,UPFHK4TL3,UPFHEN2M9,UPT1W9ZDE 
+[03/24/20, 19:01:49:724] info: [DND] (TPFGVDSR1) Checking for changes in DND status for the following members: UPT2BCF3J,UPUT4LFEK,UPE7NU5K4,UPT257TE1,UPE8A1W02,UPT19MF5E,UPFHK4TL3,UPFHEN2M9,UPT1W9ZDE 
+[03/24/20, 19:01:49:759] info: [DND] (TPFGVDSR1) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:01:49:863] info: [ACTION:CHANNEL-SIDEBAR] Selected G010F3BL9DJ 
+[03/24/20, 19:01:49:863] info: [CHANNEL-SIDEBAR] (TPFGVDSR1) onItemSelect G010F3BL9DJ 
+[03/24/20, 19:01:49:891] info: [SWITCH-TO-CHANNEL] (TPFGVDSR1) Switching to G010F3BL9DJ at last_read 1584958711.002200 
+[03/24/20, 19:01:49:964] info: [MESSAGE-LIST] (TPFGVDSR1) Switching channels: G010F3BL9DJ timestamps: 0 
+[03/24/20, 19:01:49:965] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: G010F3BL9DJ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:01:49:965] info: [HISTORY-FETCH] (TPFGVDSR1) Fetching history for message pane: G010F3BL9DJ oldest: 1584958711.002200 latest: 1584958711.002200 
+[03/24/20, 19:01:49:969] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.966 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:01:49:970] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.966 conversations.history is ENQUEUED 
+[03/24/20, 19:01:49:970] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.966 conversations.history is ACTIVE 
+[03/24/20, 19:01:49:975] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.970 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:01:49:975] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.970 conversations.history is ENQUEUED 
+[03/24/20, 19:01:49:975] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.970 conversations.history is ACTIVE 
+[03/24/20, 19:01:49:992] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:01:49:994] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: G010F3BL9DJ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:01:49:995] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: G010F3BL9DJ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:01:50:095] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:50:128] info: [MESSAGE-LIST] (TPFGVDSR1) componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 0 
+[03/24/20, 19:01:50:174] info: [API-Q] (TPFGVDSR1) noversion-1585072910.162 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:01:50:175] info: [API-Q] (TPFGVDSR1) noversion-1585072910.162 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:01:50:176] info: [API-Q] (TPFGVDSR1) noversion-1585072910.162 Flannel users/counts is ACTIVE 
+[03/24/20, 19:01:50:405] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after debounced channel change to G010F3BL9DJ 
+[03/24/20, 19:01:50:406] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ, clearing ghost last_read 
+[03/24/20, 19:01:50:489] info: [API-Q] (TPFGVDSR1) noversion-1585072910.162 Flannel users/counts is RESOLVED 
+[03/24/20, 19:01:50:561] info: [DND] (TPFGVDSR1) Preparing to fetch DND times for the following members: UPT2APJTX 
+[03/24/20, 19:01:50:564] info: [API-Q] (TPFGVDSR1) 1767a128-1585072910.561 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[03/24/20, 19:01:50:566] info: [API-Q] (TPFGVDSR1) 1767a128-1585072910.561 dnd.teamInfo is ENQUEUED 
+[03/24/20, 19:01:50:567] info: [API-Q] (TPFGVDSR1) 1767a128-1585072910.561 dnd.teamInfo is ACTIVE 
+[03/24/20, 19:01:50:627] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.966 conversations.history is RESOLVED 
+[03/24/20, 19:01:50:628] info: [API-Q] (TPFGVDSR1) 1767a128-1585072909.970 conversations.history is RESOLVED 
+[03/24/20, 19:01:50:677] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in G010F3BL9DJ because (33) timestamps added 
+[03/24/20, 19:01:50:677] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in G010F3BL9DJ after a new message 
+[03/24/20, 19:01:50:678] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ, clearing ghost last_read 
+[03/24/20, 19:01:50:721] info: [MESSAGE-LIST] (TPFGVDSR1) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 33 
+[03/24/20, 19:01:50:811] info: [CHECK-UNREADS] (TPFGVDSR1) unreadLineVisible updated: false -> true 
+[03/24/20, 19:01:50:937] info: [API-Q] (TPFGVDSR1) 1767a128-1585072910.561 dnd.teamInfo is RESOLVED 
+[03/24/20, 19:01:50:981] info: [DND] (TPFGVDSR1) Fetched DND info for the following members: UPT2APJTX 
+[03/24/20, 19:01:50:993] info: [DND] (TPFGVDSR1) Checking for changes in DND status for the following members: UPT2BCF3J,UPUT4LFEK,UPE7NU5K4,UPT257TE1,UPE8A1W02,UPT19MF5E,UPFHK4TL3,UPFHEN2M9,UPT1W9ZDE,UPT2APJTX 
+[03/24/20, 19:01:50:995] info: [DND] (TPFGVDSR1) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:01:51:274] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after unread line became visible 
+[03/24/20, 19:01:51:275] info: [CHECK-UNREADS] (TPFGVDSR1) Marking G010F3BL9DJ because unread line is visible 
+[03/24/20, 19:01:51:286] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead G010F3BL9DJ:1585065684.001600, immediate: undefined 
+[03/24/20, 19:01:51:306] info: [SET-LAST-READ] (TPFGVDSR1) delaying G010F3BL9DJ mark by 4689.207371279984ms 
+[03/24/20, 19:01:51:310] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in G010F3BL9DJ because last_read changed to 1585065684.001600 
+[03/24/20, 19:01:51:310] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for G010F3BL9DJ: 0 
+[03/24/20, 19:01:51:424] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:01:51:440] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:01:51:506] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:01:55:996] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking G010F3BL9DJ with API 
+[03/24/20, 19:01:56:015] info: [API-Q] (TPFGVDSR1) 1767a128-1585072916.008 conversations.mark called with reason: viewed 
+[03/24/20, 19:01:56:016] info: [API-Q] (TPFGVDSR1) 1767a128-1585072916.008 conversations.mark is ENQUEUED 
+[03/24/20, 19:01:56:017] info: [API-Q] (TPFGVDSR1) 1767a128-1585072916.008 conversations.mark is ACTIVE 
+[03/24/20, 19:01:56:429] info: [API-Q] (TPFGVDSR1) 1767a128-1585072916.008 conversations.mark is RESOLVED 
+[03/24/20, 19:02:09:152] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to G010F3BL9DJ via HTTP, clientMsgId: e7750a5a-2cda-46ad-a858-0de229e182a1 
+[03/24/20, 19:02:09:152] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId e7750a5a-2cda-46ad-a858-0de229e182a1, queue has 1 messages 
+[03/24/20, 19:02:09:152] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId e7750a5a-2cda-46ad-a858-0de229e182a1 
+[03/24/20, 19:02:09:155] info: [API-Q] (TPFGVDSR1) 1767a128-1585072929.153 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:02:09:156] info: [API-Q] (TPFGVDSR1) 1767a128-1585072929.153 chat.postMessage is ENQUEUED 
+[03/24/20, 19:02:09:156] info: [API-Q] (TPFGVDSR1) 1767a128-1585072929.153 chat.postMessage is ACTIVE 
+[03/24/20, 19:02:09:156] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:02:09:163] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in G010F3BL9DJ because (1) timestamps added 
+[03/24/20, 19:02:09:163] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in G010F3BL9DJ after a new message 
+[03/24/20, 19:02:09:163] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ because last_read >= latest && channel is read 
+[03/24/20, 19:02:09:706] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId e7750a5a-2cda-46ad-a858-0de229e182a1 in G010F3BL9DJ with ts 1585072929.001800 
+[03/24/20, 19:02:09:716] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId e7750a5a-2cda-46ad-a858-0de229e182a1 
+[03/24/20, 19:02:09:720] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in G010F3BL9DJ because (1) timestamps added 
+[03/24/20, 19:02:09:721] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in G010F3BL9DJ after a new message 
+[03/24/20, 19:02:09:721] info: [CHECK-UNREADS] (TPFGVDSR1) Marking G010F3BL9DJ because unread line is visible 
+[03/24/20, 19:02:09:723] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead G010F3BL9DJ:1585072929.001800, immediate: undefined 
+[03/24/20, 19:02:09:726] info: [SET-LAST-READ] (TPFGVDSR1) delaying G010F3BL9DJ mark by 4399.206031990174ms 
+[03/24/20, 19:02:09:728] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in G010F3BL9DJ because message removed 
+[03/24/20, 19:02:09:729] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in G010F3BL9DJ because last_read changed to 1585072929.001800 
+[03/24/20, 19:02:09:835] info: [API-Q] (TPFGVDSR1) 1767a128-1585072929.153 chat.postMessage is RESOLVED 
+[03/24/20, 19:02:10:006] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 19:02:10:136] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:10:157] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:10:213] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:02:10:213] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ because attention not on chat (window_not_focused) 
+[03/24/20, 19:02:11:824] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 19:02:11:887] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:11:904] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:11:981] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:02:11:981] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ because last_read >= latest && channel is read 
+[03/24/20, 19:02:14:126] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking G010F3BL9DJ with API 
+[03/24/20, 19:02:14:147] info: [API-Q] (TPFGVDSR1) 1767a128-1585072934.137 conversations.mark called with reason: viewed 
+[03/24/20, 19:02:14:149] info: [API-Q] (TPFGVDSR1) 1767a128-1585072934.137 conversations.mark is ENQUEUED 
+[03/24/20, 19:02:14:151] info: [API-Q] (TPFGVDSR1) 1767a128-1585072934.137 conversations.mark is ACTIVE 
+[03/24/20, 19:02:14:584] info: [API-Q] (TPFGVDSR1) 1767a128-1585072934.137 conversations.mark is RESOLVED 
+[03/24/20, 19:02:19:656] info: [ACTION:CHANNEL-SIDEBAR] Selected CPFHUA3GB 
+[03/24/20, 19:02:19:657] info: [CHANNEL-SIDEBAR] (TPFGVDSR1) onItemSelect CPFHUA3GB 
+[03/24/20, 19:02:19:670] info: [SWITCH-TO-CHANNEL] (TPFGVDSR1) Switching to CPFHUA3GB at last_read 1585059500.004700 
+[03/24/20, 19:02:19:726] info: [MESSAGE-LIST] (TPFGVDSR1) Switching channels: CPFHUA3GB timestamps: 0 
+[03/24/20, 19:02:19:726] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: CPFHUA3GB isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:19:726] info: [HISTORY-FETCH] (TPFGVDSR1) Fetching history for message pane: CPFHUA3GB oldest: 1585059500.004700 latest: 1585059500.004700 
+[03/24/20, 19:02:19:727] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.726 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:02:19:727] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.726 conversations.history is ENQUEUED 
+[03/24/20, 19:02:19:728] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.726 conversations.history is ACTIVE 
+[03/24/20, 19:02:19:735] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.734 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:02:19:735] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.734 conversations.history is ENQUEUED 
+[03/24/20, 19:02:19:736] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.734 conversations.history is ACTIVE 
+[03/24/20, 19:02:19:747] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:19:756] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: CPFHUA3GB isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:19:756] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: CPFHUA3GB isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:19:859] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:19:891] info: [MESSAGE-LIST] (TPFGVDSR1) componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 0 
+[03/24/20, 19:02:20:178] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after debounced channel change to CPFHUA3GB 
+[03/24/20, 19:02:20:179] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking CPFHUA3GB, clearing ghost last_read 
+[03/24/20, 19:02:20:256] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.734 conversations.history is RESOLVED 
+[03/24/20, 19:02:20:322] info: [API-Q] (TPFGVDSR1) 1767a128-1585072939.726 conversations.history is RESOLVED 
+[03/24/20, 19:02:20:346] info: [PINS] (TPFGVDSR1) Pins count updated for channel CPFHUA3GB: 0 
+[03/24/20, 19:02:20:353] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in CPFHUA3GB because (49) timestamps added 
+[03/24/20, 19:02:20:353] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for CPFHUA3GB: 7 
+[03/24/20, 19:02:20:358] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in CPFHUA3GB after a new message 
+[03/24/20, 19:02:20:359] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking CPFHUA3GB, clearing ghost last_read 
+[03/24/20, 19:02:20:392] info: [MESSAGE-LIST] (TPFGVDSR1) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 49 
+[03/24/20, 19:02:20:489] info: [CHECK-UNREADS] (TPFGVDSR1) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:20:962] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after unread line became visible 
+[03/24/20, 19:02:20:962] info: [CHECK-UNREADS] (TPFGVDSR1) Marking CPFHUA3GB because unread line is visible 
+[03/24/20, 19:02:20:975] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead CPFHUA3GB:1585072896.006700, immediate: undefined 
+[03/24/20, 19:02:20:988] info: [SET-LAST-READ] (TPFGVDSR1) delaying CPFHUA3GB mark by 1456.837552819872ms 
+[03/24/20, 19:02:20:992] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in CPFHUA3GB because last_read changed to 1585072896.006700 
+[03/24/20, 19:02:20:992] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for CPFHUA3GB: 0 
+[03/24/20, 19:02:21:000] info: [COUNTS] (TPFGVDSR1) Updated unread_highlight_cnt for CPFHUA3GB: 0 
+[03/24/20, 19:02:21:002] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:02:21:078] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:02:21:082] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:02:21:094] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:21:155] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:02:22:445] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking CPFHUA3GB with API 
+[03/24/20, 19:02:22:461] info: [API-Q] (TPFGVDSR1) 1767a128-1585072942.453 conversations.mark called with reason: viewed 
+[03/24/20, 19:02:22:463] info: [API-Q] (TPFGVDSR1) 1767a128-1585072942.453 conversations.mark is ENQUEUED 
+[03/24/20, 19:02:22:465] info: [API-Q] (TPFGVDSR1) 1767a128-1585072942.453 conversations.mark is ACTIVE 
+[03/24/20, 19:02:22:829] info: [API-Q] (TPFGVDSR1) 1767a128-1585072942.453 conversations.mark is RESOLVED 
+[03/24/20, 19:02:26:134] info: [ACTION:CHANNEL-SIDEBAR] Selected G010F3BL9DJ 
+[03/24/20, 19:02:26:134] info: [CHANNEL-SIDEBAR] (TPFGVDSR1) onItemSelect G010F3BL9DJ 
+[03/24/20, 19:02:26:143] info: [SWITCH-TO-CHANNEL] (TPFGVDSR1) Switching to G010F3BL9DJ at end 
+[03/24/20, 19:02:26:214] info: [MESSAGE-LIST] (TPFGVDSR1) Switching channels: G010F3BL9DJ timestamps: 34 
+[03/24/20, 19:02:26:388] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:26:404] info: [CHECK-UNREADS] (TPFGVDSR1) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:26:520] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:26:815] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after unread line became visible 
+[03/24/20, 19:02:26:816] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ because last_read >= latest && channel is read 
+[03/24/20, 19:02:26:957] info: [DND] (TPFGVDSR1) There are no members in the presence subscription that we need to fetch DND times for! 
+[03/24/20, 19:02:29:591] info: [SWITCH-TO-CHANNEL] (T03HMPJ8R) Switching to C03JTF2V9 at end 
+[03/24/20, 19:02:29:758] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:29:775] error: [DESKTOP] 'desktop.stats.performance.timeSpentInPreload' is missing or not a function 
+[03/24/20, 19:02:29:776] info: [DRAFTS] (T03HMPJ8R) There are no channels with drafts 
+[03/24/20, 19:02:29:777] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.776 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[03/24/20, 19:02:29:778] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.776 apps.getSidebarPrompts is ENQUEUED 
+[03/24/20, 19:02:29:778] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.776 apps.getSidebarPrompts is ACTIVE 
+[03/24/20, 19:02:29:936] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.932 conversations.replies called with reason: history-api/fetchReplies 
+[03/24/20, 19:02:29:936] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.932 conversations.replies is ENQUEUED 
+[03/24/20, 19:02:29:937] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.932 conversations.replies is ACTIVE 
+[03/24/20, 19:02:30:195] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[03/24/20, 19:02:30:260] info: [CHECK-UNREADS] (T03HMPJ8R) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:30:290] info: [CHECK-UNREADS] (T03HMPJ8R) Checking unreads after workspace became focused 
+[03/24/20, 19:02:30:290] info: [CHECK-UNREADS] (T03HMPJ8R) Not marking C03JTF2V9 because last_read >= latest && channel is read 
+[03/24/20, 19:02:30:348] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:30:361] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:30:376] info: Store: SELECTION_CHANGED T03HMPJ8R 
+[03/24/20, 19:02:30:389] info: [API-Q] (T03HMPJ8R) noversion-1585072950.386 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:02:30:389] info: [API-Q] (T03HMPJ8R) noversion-1585072950.386 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:02:30:389] info: [API-Q] (T03HMPJ8R) noversion-1585072950.386 Flannel users/counts is ACTIVE 
+[03/24/20, 19:02:30:391] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.389 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[03/24/20, 19:02:30:391] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.389 help.issues.list is ENQUEUED 
+[03/24/20, 19:02:30:392] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.389 help.issues.list is ACTIVE 
+[03/24/20, 19:02:30:394] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.392 subscriptions.thread.get called with reason: fetch-thread-subscriptions 
+[03/24/20, 19:02:30:394] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.392 subscriptions.thread.get is ENQUEUED 
+[03/24/20, 19:02:30:395] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.392 subscriptions.thread.get is ACTIVE 
+[03/24/20, 19:02:30:400] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.395 users.channelSections.list called with reason: channel_sections_list 
+[03/24/20, 19:02:30:401] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.395 users.channelSections.list is ENQUEUED 
+[03/24/20, 19:02:30:402] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.395 users.channelSections.list is ACTIVE 
+[03/24/20, 19:02:30:407] info: [API-Q] (T03HMPJ8R) noversion-1585072950.404 Flannel channels/info called with reason: flannel-call:channels/info 
+[03/24/20, 19:02:30:407] info: [API-Q] (T03HMPJ8R) noversion-1585072950.404 Flannel channels/info is ENQUEUED 
+[03/24/20, 19:02:30:407] info: [API-Q] (T03HMPJ8R) noversion-1585072950.404 Flannel channels/info is ACTIVE 
+[03/24/20, 19:02:30:410] info: [API-Q] (T03HMPJ8R) noversion-1585072950.408 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:02:30:410] info: [API-Q] (T03HMPJ8R) noversion-1585072950.408 Flannel users/info is ENQUEUED 
+[03/24/20, 19:02:30:411] info: [API-Q] (T03HMPJ8R) noversion-1585072950.408 Flannel users/info is ACTIVE 
+[03/24/20, 19:02:30:411] info: [HISTORY-CFM] (T03HMPJ8R) Re-fetching C0BE1DJUQ-1583492883.006500 1583492883.006500 - 1583506572.008100 
+[03/24/20, 19:02:30:413] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.411 conversations.replies called with reason: channel-history-store.CFM.fetch 
+[03/24/20, 19:02:30:414] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.411 conversations.replies is ENQUEUED 
+[03/24/20, 19:02:30:414] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.411 conversations.replies is ACTIVE 
+[03/24/20, 19:02:30:418] info: [API-Q] (T03HMPJ8R) noversion-1585072950.416 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:02:30:418] info: [API-Q] (T03HMPJ8R) noversion-1585072950.416 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:02:30:418] info: [API-Q] (T03HMPJ8R) noversion-1585072950.416 Flannel users/counts is ACTIVE 
+[03/24/20, 19:02:30:538] info: [DND] (T03HMPJ8R) Preparing to fetch DND times for the following members: UN035L7TQ,UCP27JKEW,UCP6X5C9K,UMRFWQB5X,UMXTBSN1K,UCP26NFTL,UGLM72E5D,U705LBVB4 
+[03/24/20, 19:02:30:539] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.535 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[03/24/20, 19:02:30:540] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.535 dnd.info is ENQUEUED 
+[03/24/20, 19:02:30:542] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.539 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[03/24/20, 19:02:30:542] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.539 dnd.teamInfo is ENQUEUED 
+[03/24/20, 19:02:30:649] info: [CHECK-UNREADS] (T03HMPJ8R) Checking unreads after unread line became visible 
+[03/24/20, 19:02:30:649] info: [CHECK-UNREADS] (T03HMPJ8R) Not marking C03JTF2V9 because last_read >= latest && channel is read 
+[03/24/20, 19:02:30:868] info: [API-Q] (T03HMPJ8R) noversion-1585072950.386 Flannel users/counts is RESOLVED 
+[03/24/20, 19:02:30:869] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.535 dnd.info is ACTIVE 
+[03/24/20, 19:02:30:882] info: [API-Q] (T03HMPJ8R) noversion-1585072950.404 Flannel channels/info is RESOLVED 
+[03/24/20, 19:02:30:882] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.539 dnd.teamInfo is ACTIVE 
+[03/24/20, 19:02:30:885] info: [API-Q] (T03HMPJ8R) noversion-1585072950.408 Flannel users/info is RESOLVED 
+[03/24/20, 19:02:30:933] info: [API-Q] (T03HMPJ8R) noversion-1585072950.416 Flannel users/counts is RESOLVED 
+[03/24/20, 19:02:31:124] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.389 help.issues.list is RESOLVED 
+[03/24/20, 19:02:31:140] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.395 users.channelSections.list is RESOLVED 
+[03/24/20, 19:02:31:142] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.932 conversations.replies is RESOLVED 
+[03/24/20, 19:02:31:182] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.392 subscriptions.thread.get is RESOLVED 
+[03/24/20, 19:02:31:205] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.411 conversations.replies is RESOLVED 
+[03/24/20, 19:02:31:253] info: [API-Q] (T03HMPJ8R) 1767a128-1585072949.776 apps.getSidebarPrompts is RESOLVED 
+[03/24/20, 19:02:31:316] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.535 dnd.info is RESOLVED 
+[03/24/20, 19:02:31:318] info: [DND] (T03HMPJ8R) Fetched DND info for the following member: UN035L7TQ 
+[03/24/20, 19:02:31:320] info: [DND] (T03HMPJ8R) Checking for changes in DND status for the following members: UN035L7TQ 
+[03/24/20, 19:02:31:321] info: [DND] (T03HMPJ8R) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:02:31:411] info: [API-Q] (T03HMPJ8R) 1767a128-1585072950.539 dnd.teamInfo is RESOLVED 
+[03/24/20, 19:02:31:413] info: [DND] (T03HMPJ8R) Fetched DND info for the following members: UCP27JKEW,UCP6X5C9K,UMRFWQB5X,UMXTBSN1K,UCP26NFTL,UGLM72E5D,U705LBVB4 
+[03/24/20, 19:02:31:419] info: [DND] (T03HMPJ8R) Checking for changes in DND status for the following members: UN035L7TQ,UCP27JKEW,UCP6X5C9K,UMRFWQB5X,UMXTBSN1K,UCP26NFTL,UGLM72E5D,U705LBVB4 
+[03/24/20, 19:02:31:447] info: [DND] (T03HMPJ8R) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:02:32:489] info: [SWITCH-TO-CHANNEL] (T03S8TX18) Switching to C03S8TX1L at end 
+[03/24/20, 19:02:32:556] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:32:568] error: [DESKTOP] 'desktop.stats.performance.timeSpentInPreload' is missing or not a function 
+[03/24/20, 19:02:32:569] info: [DRAFTS] (T03S8TX18) There are no channels with drafts 
+[03/24/20, 19:02:32:570] info: [API-Q] (T03S8TX18) 1767a128-1585072952.569 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[03/24/20, 19:02:32:570] info: [API-Q] (T03S8TX18) 1767a128-1585072952.569 apps.getSidebarPrompts is ENQUEUED 
+[03/24/20, 19:02:32:572] info: [API-Q] (T03S8TX18) 1767a128-1585072952.569 apps.getSidebarPrompts is ACTIVE 
+[03/24/20, 19:02:32:684] info: [API-Q] (T03S8TX18) 1767a128-1585072952.682 conversations.replies called with reason: history-api/fetchReplies 
+[03/24/20, 19:02:32:684] info: [API-Q] (T03S8TX18) 1767a128-1585072952.682 conversations.replies is ENQUEUED 
+[03/24/20, 19:02:32:684] info: [API-Q] (T03S8TX18) 1767a128-1585072952.682 conversations.replies is ACTIVE 
+[03/24/20, 19:02:32:814] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[03/24/20, 19:02:32:866] info: [CHECK-UNREADS] (T03S8TX18) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:32:878] info: [CHECK-UNREADS] (T03S8TX18) Checking unreads after workspace became focused 
+[03/24/20, 19:02:32:878] info: [CHECK-UNREADS] (T03S8TX18) Marking C03S8TX1L because unread line is visible 
+[03/24/20, 19:02:32:879] info: [SET-LAST-READ] (T03S8TX18) markLastRead C03S8TX1L:1585067559.310300, immediate: undefined 
+[03/24/20, 19:02:32:885] info: [SET-LAST-READ] (T03S8TX18) delaying C03S8TX1L mark by 1374.1019769378781ms 
+[03/24/20, 19:02:32:887] info: [UNREAD-COUNTS] (T03S8TX18) Counting unreads in C03S8TX1L because last_read changed to 1585067559.310300 
+[03/24/20, 19:02:32:922] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:32:936] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:32:940] info: Store: SELECTION_CHANGED T03S8TX18 
+[03/24/20, 19:02:32:950] info: [API-Q] (T03S8TX18) noversion-1585072952.947 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:02:32:951] info: [API-Q] (T03S8TX18) noversion-1585072952.947 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:02:32:951] info: [API-Q] (T03S8TX18) noversion-1585072952.947 Flannel users/counts is ACTIVE 
+[03/24/20, 19:02:32:953] info: [API-Q] (T03S8TX18) 1767a128-1585072952.951 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[03/24/20, 19:02:32:953] info: [API-Q] (T03S8TX18) 1767a128-1585072952.951 help.issues.list is ENQUEUED 
+[03/24/20, 19:02:32:954] info: [API-Q] (T03S8TX18) 1767a128-1585072952.951 help.issues.list is ACTIVE 
+[03/24/20, 19:02:32:958] info: [API-Q] (T03S8TX18) 1767a128-1585072952.955 users.channelSections.list called with reason: channel_sections_list 
+[03/24/20, 19:02:32:958] info: [API-Q] (T03S8TX18) 1767a128-1585072952.955 users.channelSections.list is ENQUEUED 
+[03/24/20, 19:02:32:958] info: [API-Q] (T03S8TX18) 1767a128-1585072952.955 users.channelSections.list is ACTIVE 
+[03/24/20, 19:02:32:961] info: [API-Q] (T03S8TX18) noversion-1585072952.959 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:02:32:962] info: [API-Q] (T03S8TX18) noversion-1585072952.959 Flannel users/info is ENQUEUED 
+[03/24/20, 19:02:32:962] info: [API-Q] (T03S8TX18) noversion-1585072952.959 Flannel users/info is ACTIVE 
+[03/24/20, 19:02:32:964] info: [API-Q] (T03S8TX18) noversion-1585072952.962 Flannel channels/info called with reason: flannel-call:channels/info 
+[03/24/20, 19:02:32:965] info: [API-Q] (T03S8TX18) noversion-1585072952.962 Flannel channels/info is ENQUEUED 
+[03/24/20, 19:02:32:965] info: [API-Q] (T03S8TX18) noversion-1585072952.962 Flannel channels/info is ACTIVE 
+[03/24/20, 19:02:32:966] info: [HISTORY-CFM] (T03S8TX18) Re-fetching C03S8TX1L-1584709781.270000 1584710659.271400 - 1584710659.271400 
+[03/24/20, 19:02:32:969] info: [API-Q] (T03S8TX18) 1767a128-1585072952.966 conversations.replies called with reason: channel-history-store.CFM.fetch 
+[03/24/20, 19:02:32:969] info: [API-Q] (T03S8TX18) 1767a128-1585072952.966 conversations.replies is ENQUEUED 
+[03/24/20, 19:02:32:969] info: [API-Q] (T03S8TX18) 1767a128-1585072952.966 conversations.replies is ACTIVE 
+[03/24/20, 19:02:33:290] info: [CHECK-UNREADS] (T03S8TX18) Checking unreads after unread line became visible 
+[03/24/20, 19:02:33:291] info: [CHECK-UNREADS] (T03S8TX18) Not marking C03S8TX1L because last_read >= latest && channel is read 
+[03/24/20, 19:02:33:291] info: [DND] (T03S8TX18) Preparing to fetch DND times for the following members: UGW290ELX,U09UP5HNC,U2F55ET3N,U241MGFT3 
+[03/24/20, 19:02:33:295] info: [API-Q] (T03S8TX18) 1767a128-1585072953.291 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[03/24/20, 19:02:33:296] info: [API-Q] (T03S8TX18) 1767a128-1585072953.291 dnd.info is ENQUEUED 
+[03/24/20, 19:02:33:296] info: [API-Q] (T03S8TX18) 1767a128-1585072953.291 dnd.info is ACTIVE 
+[03/24/20, 19:02:33:299] info: [API-Q] (T03S8TX18) 1767a128-1585072953.296 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[03/24/20, 19:02:33:299] info: [API-Q] (T03S8TX18) 1767a128-1585072953.296 dnd.teamInfo is ENQUEUED 
+[03/24/20, 19:02:33:299] info: [API-Q] (T03S8TX18) 1767a128-1585072953.296 dnd.teamInfo is ACTIVE 
+[03/24/20, 19:02:33:636] info: [API-Q] (T03S8TX18) noversion-1585072952.947 Flannel users/counts is RESOLVED 
+[03/24/20, 19:02:33:898] info: [API-Q] (T03S8TX18) 1767a128-1585072952.951 help.issues.list is RESOLVED 
+[03/24/20, 19:02:33:902] info: [API-Q] (T03S8TX18) 1767a128-1585072952.955 users.channelSections.list is RESOLVED 
+[03/24/20, 19:02:33:905] info: [API-Q] (T03S8TX18) 1767a128-1585072952.682 conversations.replies is RESOLVED 
+[03/24/20, 19:02:33:906] info: [API-Q] (T03S8TX18) 1767a128-1585072952.966 conversations.replies is RESOLVED 
+[03/24/20, 19:02:33:907] info: [API-Q] (T03S8TX18) 1767a128-1585072953.291 dnd.info is RESOLVED 
+[03/24/20, 19:02:33:911] info: [API-Q] (T03S8TX18) 1767a128-1585072952.569 apps.getSidebarPrompts is RESOLVED 
+[03/24/20, 19:02:33:914] info: [API-Q] (T03S8TX18) 1767a128-1585072953.296 dnd.teamInfo is RESOLVED 
+[03/24/20, 19:02:33:916] info: [API-Q] (T03S8TX18) noversion-1585072952.959 Flannel users/info is RESOLVED 
+[03/24/20, 19:02:33:918] info: [API-Q] (T03S8TX18) noversion-1585072952.962 Flannel channels/info is RESOLVED 
+[03/24/20, 19:02:34:049] info: [DND] (T03S8TX18) Fetched DND info for the following member: UGW290ELX 
+[03/24/20, 19:02:34:052] info: [DND] (T03S8TX18) Checking for changes in DND status for the following members: UGW290ELX 
+[03/24/20, 19:02:34:056] info: [DND] (T03S8TX18) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:02:34:059] info: [DND] (T03S8TX18) Fetched DND info for the following members: U09UP5HNC,U2F55ET3N,U241MGFT3 
+[03/24/20, 19:02:34:064] info: [DND] (T03S8TX18) Checking for changes in DND status for the following members: UGW290ELX,U09UP5HNC,U2F55ET3N,U241MGFT3 
+[03/24/20, 19:02:34:070] info: [DND] (T03S8TX18) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:02:34:253] info: [ACTION:CHANNEL-SIDEBAR] Selected CNGDKNAHJ 
+[03/24/20, 19:02:34:253] info: [CHANNEL-SIDEBAR] (T03S8TX18) onItemSelect CNGDKNAHJ 
+[03/24/20, 19:02:34:270] info: [SWITCH-TO-CHANNEL] (T03S8TX18) Switching to CNGDKNAHJ at last_read 1584824614.094800 
+[03/24/20, 19:02:34:338] info: [MESSAGE-LIST] (T03S8TX18) Switching channels: CNGDKNAHJ timestamps: 0 
+[03/24/20, 19:02:34:340] info: [MESSAGE-LIST] (T03S8TX18) requestAround channelId: CNGDKNAHJ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:34:342] info: [HISTORY-FETCH] (T03S8TX18) Fetching history for message pane: CNGDKNAHJ oldest: 1584824614.094800 latest: 1584824614.094800 
+[03/24/20, 19:02:34:347] info: [API-Q] (T03S8TX18) 1767a128-1585072954.340 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:02:34:347] info: [API-Q] (T03S8TX18) 1767a128-1585072954.340 conversations.history is ENQUEUED 
+[03/24/20, 19:02:34:348] info: [API-Q] (T03S8TX18) 1767a128-1585072954.340 conversations.history is ACTIVE 
+[03/24/20, 19:02:34:351] info: [API-Q] (T03S8TX18) 1767a128-1585072954.349 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:02:34:352] info: [API-Q] (T03S8TX18) 1767a128-1585072954.349 conversations.history is ENQUEUED 
+[03/24/20, 19:02:34:352] info: [API-Q] (T03S8TX18) 1767a128-1585072954.349 conversations.history is ACTIVE 
+[03/24/20, 19:02:34:383] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:34:386] info: [MESSAGE-LIST] (T03S8TX18) requestAround channelId: CNGDKNAHJ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:34:386] info: [MESSAGE-LIST] (T03S8TX18) requestAround channelId: CNGDKNAHJ isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:34:503] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:34:506] info: [SET-LAST-READ] (T03S8TX18) delay resolved, marking C03S8TX1L with API 
+[03/24/20, 19:02:34:521] info: [API-Q] (T03S8TX18) noversion-1585072954.519 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:02:34:522] info: [API-Q] (T03S8TX18) noversion-1585072954.519 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:02:34:522] info: [API-Q] (T03S8TX18) noversion-1585072954.519 Flannel users/counts is ACTIVE 
+[03/24/20, 19:02:34:558] info: [MESSAGE-LIST] (T03S8TX18) componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 0 
+[03/24/20, 19:02:34:761] info: [API-Q] (T03S8TX18) 1767a128-1585072954.349 conversations.history is RESOLVED 
+[03/24/20, 19:02:34:818] info: [API-Q] (T03S8TX18) noversion-1585072954.519 Flannel users/counts is RESOLVED 
+[03/24/20, 19:02:34:818] info: [CHECK-UNREADS] (T03S8TX18) Checking unreads after debounced channel change to CNGDKNAHJ 
+[03/24/20, 19:02:34:819] info: [CHECK-UNREADS] (T03S8TX18) Not marking CNGDKNAHJ, clearing ghost last_read 
+[03/24/20, 19:02:35:005] info: [API-Q] (T03S8TX18) 1767a128-1585072954.340 conversations.history is RESOLVED 
+[03/24/20, 19:02:35:016] info: [API-Q] (T03S8TX18) 1767a128-1585072955.005 conversations.mark called with reason: viewed 
+[03/24/20, 19:02:35:016] info: [API-Q] (T03S8TX18) 1767a128-1585072955.005 conversations.mark is ENQUEUED 
+[03/24/20, 19:02:35:018] info: [API-Q] (T03S8TX18) 1767a128-1585072955.005 conversations.mark is ACTIVE 
+[03/24/20, 19:02:35:100] info: [PINS] (T03S8TX18) Pins count updated for channel CNGDKNAHJ: 1 
+[03/24/20, 19:02:35:107] info: [UNREAD-COUNTS] (T03S8TX18) Counting unreads in CNGDKNAHJ because (44) timestamps added 
+[03/24/20, 19:02:35:109] info: [UNREAD-COUNTS] (T03S8TX18) Checking unreads in CNGDKNAHJ after a new message 
+[03/24/20, 19:02:35:109] info: [CHECK-UNREADS] (T03S8TX18) Not marking CNGDKNAHJ, clearing ghost last_read 
+[03/24/20, 19:02:35:138] info: [MESSAGE-LIST] (T03S8TX18) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 41 
+[03/24/20, 19:02:35:250] info: [CHECK-UNREADS] (T03S8TX18) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:35:335] info: [UNKNOWN-FETCH-MANAGER] (T03S8TX18) requesting U3H4H844S,UM3EBLUJX,U6QR0HU76,U6N0DTH34,UN0CGDLLU,U6YHBK7LZ (1) 
+[03/24/20, 19:02:35:344] info: [API-Q] (T03S8TX18) noversion-1585072955.336 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:02:35:346] info: [API-Q] (T03S8TX18) noversion-1585072955.336 Flannel users/info is ENQUEUED 
+[03/24/20, 19:02:35:348] info: [API-Q] (T03S8TX18) noversion-1585072955.336 Flannel users/info is ACTIVE 
+[03/24/20, 19:02:35:365] info: [API-Q] (T03S8TX18) noversion-1585072955.358 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:02:35:365] info: [API-Q] (T03S8TX18) noversion-1585072955.358 Flannel users/info is ENQUEUED 
+[03/24/20, 19:02:35:365] info: [API-Q] (T03S8TX18) noversion-1585072955.358 Flannel users/info is ACTIVE 
+[03/24/20, 19:02:35:601] info: [API-Q] (T03S8TX18) 1767a128-1585072955.005 conversations.mark is RESOLVED 
+[03/24/20, 19:02:35:605] info: [API-Q] (T03S8TX18) noversion-1585072955.336 Flannel users/info is RESOLVED 
+[03/24/20, 19:02:35:608] info: [UNKNOWN-FETCH-MANAGER] (T03S8TX18) received U3H4H844S,UM3EBLUJX,U6QR0HU76,U6N0DTH34,UN0CGDLLU,U6YHBK7LZ (1) 
+[03/24/20, 19:02:35:670] info: [API-Q] (T03S8TX18) noversion-1585072955.358 Flannel users/info is RESOLVED 
+[03/24/20, 19:02:35:688] info: [CHECK-UNREADS] (T03S8TX18) Checking unreads after unread line became visible 
+[03/24/20, 19:02:35:688] info: [CHECK-UNREADS] (T03S8TX18) Marking CNGDKNAHJ because unread line is visible 
+[03/24/20, 19:02:35:690] info: [SET-LAST-READ] (T03S8TX18) markLastRead CNGDKNAHJ:1585067560.095500, immediate: undefined 
+[03/24/20, 19:02:35:702] info: [SET-LAST-READ] (T03S8TX18) delaying CNGDKNAHJ mark by 625.6818760151428ms 
+[03/24/20, 19:02:35:704] info: [UNREAD-COUNTS] (T03S8TX18) Counting unreads in CNGDKNAHJ because last_read changed to 1585067560.095500 
+[03/24/20, 19:02:35:705] info: [COUNTS] (T03S8TX18) Updated unread_cnt for CNGDKNAHJ: 0 
+[03/24/20, 19:02:35:884] info: [DESKTOP-MIDDLEWARE] (T03S8TX18) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:02:35:938] info: [ACTION:CHANNEL-SIDEBAR] Selected Punreads 
+[03/24/20, 19:02:35:939] info: [CHANNEL-SIDEBAR] (T03S8TX18) onItemSelect Punreads 
+[03/24/20, 19:02:35:996] info: Store: REDUX_UPDATE_FROM_WEBAPP (T03S8TX18) Changed keys [unreads] 
+[03/24/20, 19:02:36:108] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:36:167] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:36:328] info: [SET-LAST-READ] (T03S8TX18) delay resolved, marking CNGDKNAHJ with API 
+[03/24/20, 19:02:36:349] info: [API-Q] (T03S8TX18) 1767a128-1585072956.338 conversations.mark called with reason: viewed 
+[03/24/20, 19:02:36:350] info: [API-Q] (T03S8TX18) 1767a128-1585072956.338 conversations.mark is ENQUEUED 
+[03/24/20, 19:02:36:351] info: [API-Q] (T03S8TX18) 1767a128-1585072956.338 conversations.mark is ACTIVE 
+[03/24/20, 19:02:36:387] info: [API-Q] (T03S8TX18) noversion-1585072956.385 Flannel users/info called with reason: flannel-call:users/info 
+[03/24/20, 19:02:36:387] info: [API-Q] (T03S8TX18) noversion-1585072956.385 Flannel users/info is ENQUEUED 
+[03/24/20, 19:02:36:388] info: [API-Q] (T03S8TX18) noversion-1585072956.385 Flannel users/info is ACTIVE 
+[03/24/20, 19:02:36:561] info: [API-Q] (T03S8TX18) noversion-1585072956.385 Flannel users/info is RESOLVED 
+[03/24/20, 19:02:36:670] info: [API-Q] (T03S8TX18) 1767a128-1585072956.338 conversations.mark is RESOLVED 
+[03/24/20, 19:02:37:833] info: [SWITCH-TO-CHANNEL] (T03HMPJ8R) Switching to C03JTF2V9 at end 
+[03/24/20, 19:02:37:931] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:37:948] error: [DESKTOP] 'desktop.stats.performance.timeSpentInPreload' is missing or not a function 
+[03/24/20, 19:02:37:949] info: [DRAFTS] (T03HMPJ8R) There are no channels with drafts 
+[03/24/20, 19:02:37:950] info: [API-Q] (T03HMPJ8R) 1767a128-1585072957.949 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[03/24/20, 19:02:37:951] info: [API-Q] (T03HMPJ8R) 1767a128-1585072957.949 apps.getSidebarPrompts is ENQUEUED 
+[03/24/20, 19:02:37:951] info: [API-Q] (T03HMPJ8R) 1767a128-1585072957.949 apps.getSidebarPrompts is ACTIVE 
+[03/24/20, 19:02:38:288] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[03/24/20, 19:02:38:336] info: [CHECK-UNREADS] (T03HMPJ8R) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:38:360] info: [CHECK-UNREADS] (T03HMPJ8R) Checking unreads after workspace became focused 
+[03/24/20, 19:02:38:361] info: [CHECK-UNREADS] (T03HMPJ8R) Not marking C03JTF2V9 because last_read >= latest && channel is read 
+[03/24/20, 19:02:38:406] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:38:419] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:38:432] info: Store: SELECTION_CHANGED T03HMPJ8R 
+[03/24/20, 19:02:38:639] info: [DND] (T03HMPJ8R) There are no members in the presence subscription that we need to fetch DND times for! 
+[03/24/20, 19:02:38:710] info: [CHECK-UNREADS] (T03HMPJ8R) Checking unreads after unread line became visible 
+[03/24/20, 19:02:38:711] info: [CHECK-UNREADS] (T03HMPJ8R) Not marking C03JTF2V9 because last_read >= latest && channel is read 
+[03/24/20, 19:02:38:834] info: [API-Q] (T03HMPJ8R) 1767a128-1585072957.949 apps.getSidebarPrompts is RESOLVED 
+[03/24/20, 19:02:40:634] info: [SWITCH-TO-CHANNEL] (TPFGVDSR1) Switching to G010F3BL9DJ at end 
+[03/24/20, 19:02:40:714] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:40:725] error: [DESKTOP] 'desktop.stats.performance.timeSpentInPreload' is missing or not a function 
+[03/24/20, 19:02:40:726] info: [DRAFTS] (TPFGVDSR1) There are no channels with drafts 
+[03/24/20, 19:02:40:727] info: [API-Q] (TPFGVDSR1) 1767a128-1585072960.726 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[03/24/20, 19:02:40:727] info: [API-Q] (TPFGVDSR1) 1767a128-1585072960.726 apps.getSidebarPrompts is ENQUEUED 
+[03/24/20, 19:02:40:728] info: [API-Q] (TPFGVDSR1) 1767a128-1585072960.726 apps.getSidebarPrompts is ACTIVE 
+[03/24/20, 19:02:41:011] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[03/24/20, 19:02:41:058] info: [CHECK-UNREADS] (TPFGVDSR1) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:41:077] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after workspace became focused 
+[03/24/20, 19:02:41:077] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ because last_read >= latest && channel is read 
+[03/24/20, 19:02:41:113] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:41:124] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:41:131] info: Store: SELECTION_CHANGED TPFGVDSR1 
+[03/24/20, 19:02:41:408] info: [DND] (TPFGVDSR1) There are no members in the presence subscription that we need to fetch DND times for! 
+[03/24/20, 19:02:41:428] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after unread line became visible 
+[03/24/20, 19:02:41:428] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking G010F3BL9DJ because last_read >= latest && channel is read 
+[03/24/20, 19:02:41:478] info: [API-Q] (TPFGVDSR1) 1767a128-1585072960.726 apps.getSidebarPrompts is RESOLVED 
+[03/24/20, 19:02:41:755] error: [DESKTOP] 'desktop.notice.shouldPlaySound' is missing or not a function 
+[03/24/20, 19:02:41:765] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for CPFHUA3GB: 1 
+[03/24/20, 19:02:41:873] info: Store: NEW_NOTIFICATION {
+  "authorName": "[REDACTED]",
+  "avatarImage": "[REDACTED]",
+  "channel": "CPFHUA3GB",
+  "channelName": "[REDACTED]",
+  "content": "[REDACTED]",
+  "id": "YJDiocVEWKRMEL",
+  "launchUri": "slack://channel?id=CPFHUA3GB&message=1585072961.006900&team=TPFGVDSR1",
+  "msg": "[REDACTED]",
+  "silent": true,
+  "subtitle": "[REDACTED]",
+  "teamId": "TPFGVDSR1",
+  "title": "[REDACTED]"
+} 
+[03/24/20, 19:02:41:945] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:02:41:981] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:02:43:716] info: [ACTION:CHANNEL-SIDEBAR] Selected DPT2BDH6C 
+[03/24/20, 19:02:43:717] info: [CHANNEL-SIDEBAR] (TPFGVDSR1) onItemSelect DPT2BDH6C 
+[03/24/20, 19:02:43:730] info: [SWITCH-TO-CHANNEL] (TPFGVDSR1) Switching to DPT2BDH6C at end 
+[03/24/20, 19:02:43:816] info: [MESSAGE-LIST] (TPFGVDSR1) Switching channels: DPT2BDH6C timestamps: 0 
+[03/24/20, 19:02:43:816] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: DPT2BDH6C isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:43:816] info: [HISTORY-FETCH] (TPFGVDSR1) Fetching history for message pane: DPT2BDH6C oldest: null latest: null 
+[03/24/20, 19:02:43:818] info: [API-Q] (TPFGVDSR1) 1767a128-1585072963.816 conversations.history called with reason: message-pane/requestHistory 
+[03/24/20, 19:02:43:818] info: [API-Q] (TPFGVDSR1) 1767a128-1585072963.816 conversations.history is ENQUEUED 
+[03/24/20, 19:02:43:818] info: [API-Q] (TPFGVDSR1) 1767a128-1585072963.816 conversations.history is ACTIVE 
+[03/24/20, 19:02:43:848] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[03/24/20, 19:02:43:850] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: DPT2BDH6C isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:43:850] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: DPT2BDH6C isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:43:920] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:02:43:932] info: [API-Q] (TPFGVDSR1) noversion-1585072963.922 Flannel users/counts called with reason: flannel-call:users/counts 
+[03/24/20, 19:02:43:932] info: [API-Q] (TPFGVDSR1) noversion-1585072963.922 Flannel users/counts is ENQUEUED 
+[03/24/20, 19:02:43:933] info: [API-Q] (TPFGVDSR1) noversion-1585072963.922 Flannel users/counts is ACTIVE 
+[03/24/20, 19:02:43:945] info: [MESSAGE-LIST] (TPFGVDSR1) requestAround channelId: DPT2BDH6C isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[03/24/20, 19:02:43:984] info: [MESSAGE-LIST] (TPFGVDSR1) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[03/24/20, 19:02:44:265] info: [API-Q] (TPFGVDSR1) noversion-1585072963.922 Flannel users/counts is RESOLVED 
+[03/24/20, 19:02:44:320] info: [API-Q] (TPFGVDSR1) 1767a128-1585072963.816 conversations.history is RESOLVED 
+[03/24/20, 19:02:44:339] info: [PINS] (TPFGVDSR1) Pins count updated for channel DPT2BDH6C: 0 
+[03/24/20, 19:02:44:352] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (8) timestamps added 
+[03/24/20, 19:02:44:352] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:02:44:352] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:02:44:390] info: [MESSAGE-LIST] (TPFGVDSR1) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 8 
+[03/24/20, 19:02:44:497] info: [CHECK-UNREADS] (TPFGVDSR1) unreadLineVisible updated: false -> true 
+[03/24/20, 19:02:44:888] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after unread line became visible 
+[03/24/20, 19:02:44:889] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:03:12:330] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to DPT2BDH6C via HTTP, clientMsgId: 5870f503-4e82-4879-8cb8-dd77ca96af36 
+[03/24/20, 19:03:12:330] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId 5870f503-4e82-4879-8cb8-dd77ca96af36, queue has 1 messages 
+[03/24/20, 19:03:12:330] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId 5870f503-4e82-4879-8cb8-dd77ca96af36 
+[03/24/20, 19:03:12:333] info: [API-Q] (TPFGVDSR1) 1767a128-1585072992.330 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:03:12:333] info: [API-Q] (TPFGVDSR1) 1767a128-1585072992.330 chat.postMessage is ENQUEUED 
+[03/24/20, 19:03:12:333] info: [API-Q] (TPFGVDSR1) 1767a128-1585072992.330 chat.postMessage is ACTIVE 
+[03/24/20, 19:03:12:338] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:03:12:347] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:03:12:347] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:03:12:347] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:03:12:798] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId 5870f503-4e82-4879-8cb8-dd77ca96af36 in DPT2BDH6C with ts 1585072992.000700 
+[03/24/20, 19:03:12:804] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId 5870f503-4e82-4879-8cb8-dd77ca96af36 
+[03/24/20, 19:03:12:811] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:03:12:812] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:03:12:813] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:03:12:814] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585072992.000700, immediate: undefined 
+[03/24/20, 19:03:12:821] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 2698.569760359434ms 
+[03/24/20, 19:03:12:825] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because message removed 
+[03/24/20, 19:03:12:829] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585072992.000700 
+[03/24/20, 19:03:12:913] info: [API-Q] (TPFGVDSR1) 1767a128-1585072992.330 chat.postMessage is RESOLVED 
+[03/24/20, 19:03:15:520] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:03:15:540] info: [API-Q] (TPFGVDSR1) 1767a128-1585072995.531 conversations.mark called with reason: viewed 
+[03/24/20, 19:03:15:541] info: [API-Q] (TPFGVDSR1) 1767a128-1585072995.531 conversations.mark is ENQUEUED 
+[03/24/20, 19:03:15:543] info: [API-Q] (TPFGVDSR1) 1767a128-1585072995.531 conversations.mark is ACTIVE 
+[03/24/20, 19:03:16:205] info: [API-Q] (TPFGVDSR1) 1767a128-1585072995.531 conversations.mark is RESOLVED 
+[03/24/20, 19:03:18:340] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 19:03:18:388] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:03:18:413] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:03:18:469] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:03:18:469] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because attention not on chat (window_not_focused) 
+[03/24/20, 19:03:18:910] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 19:03:19:071] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:03:19:071] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:03:19:103] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:03:19:119] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:03:42:103] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to DPT2BDH6C via HTTP, clientMsgId: 453061a8-2aef-4e22-a277-d141dc23dba5 
+[03/24/20, 19:03:42:104] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId 453061a8-2aef-4e22-a277-d141dc23dba5, queue has 1 messages 
+[03/24/20, 19:03:42:104] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId 453061a8-2aef-4e22-a277-d141dc23dba5 
+[03/24/20, 19:03:42:110] info: [API-Q] (TPFGVDSR1) 1767a128-1585073022.103 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:03:42:112] info: [API-Q] (TPFGVDSR1) 1767a128-1585073022.103 chat.postMessage is ENQUEUED 
+[03/24/20, 19:03:42:113] info: [API-Q] (TPFGVDSR1) 1767a128-1585073022.103 chat.postMessage is ACTIVE 
+[03/24/20, 19:03:42:115] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:03:42:122] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:03:42:122] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:03:42:122] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:03:42:676] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId 453061a8-2aef-4e22-a277-d141dc23dba5 in DPT2BDH6C with ts 1585073022.001200 
+[03/24/20, 19:03:42:686] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId 453061a8-2aef-4e22-a277-d141dc23dba5 
+[03/24/20, 19:03:42:690] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:03:42:692] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:03:42:693] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:03:42:694] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073022.001200, immediate: undefined 
+[03/24/20, 19:03:42:702] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 2764.4662358950422ms 
+[03/24/20, 19:03:42:704] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because message removed 
+[03/24/20, 19:03:42:705] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073022.001200 
+[03/24/20, 19:03:42:939] info: [API-Q] (TPFGVDSR1) 1767a128-1585073022.103 chat.postMessage is RESOLVED 
+[03/24/20, 19:03:45:469] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:03:45:495] info: [API-Q] (TPFGVDSR1) 1767a128-1585073025.482 conversations.mark called with reason: viewed 
+[03/24/20, 19:03:45:496] info: [API-Q] (TPFGVDSR1) 1767a128-1585073025.482 conversations.mark is ENQUEUED 
+[03/24/20, 19:03:45:497] info: [API-Q] (TPFGVDSR1) 1767a128-1585073025.482 conversations.mark is ACTIVE 
+[03/24/20, 19:03:45:898] info: [API-Q] (TPFGVDSR1) 1767a128-1585073025.482 conversations.mark is RESOLVED 
+[03/24/20, 19:03:46:330] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to DPT2BDH6C via HTTP, clientMsgId: 84f6d150-1d33-4063-8b12-d108a85ca3fa 
+[03/24/20, 19:03:46:330] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId 84f6d150-1d33-4063-8b12-d108a85ca3fa, queue has 1 messages 
+[03/24/20, 19:03:46:331] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId 84f6d150-1d33-4063-8b12-d108a85ca3fa 
+[03/24/20, 19:03:46:336] info: [API-Q] (TPFGVDSR1) 1767a128-1585073026.330 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:03:46:336] info: [API-Q] (TPFGVDSR1) 1767a128-1585073026.330 chat.postMessage is ENQUEUED 
+[03/24/20, 19:03:46:336] info: [API-Q] (TPFGVDSR1) 1767a128-1585073026.330 chat.postMessage is ACTIVE 
+[03/24/20, 19:03:46:337] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:03:46:349] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:03:46:349] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:03:46:349] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:03:46:886] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId 84f6d150-1d33-4063-8b12-d108a85ca3fa in DPT2BDH6C with ts 1585073026.001500 
+[03/24/20, 19:03:46:895] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId 84f6d150-1d33-4063-8b12-d108a85ca3fa 
+[03/24/20, 19:03:46:898] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:03:46:898] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:03:46:899] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:03:46:899] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073026.001500, immediate: undefined 
+[03/24/20, 19:03:46:903] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 3644.2942757573137ms 
+[03/24/20, 19:03:46:904] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because message removed 
+[03/24/20, 19:03:46:904] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073026.001500 
+[03/24/20, 19:03:46:983] info: [API-Q] (TPFGVDSR1) 1767a128-1585073026.330 chat.postMessage is RESOLVED 
+[03/24/20, 19:03:47:608] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned 
+[03/24/20, 19:03:50:548] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:03:50:568] info: [API-Q] (TPFGVDSR1) 1767a128-1585073030.557 conversations.mark called with reason: viewed 
+[03/24/20, 19:03:50:568] info: [API-Q] (TPFGVDSR1) 1767a128-1585073030.557 conversations.mark is ENQUEUED 
+[03/24/20, 19:03:50:574] info: [API-Q] (TPFGVDSR1) 1767a128-1585073030.557 conversations.mark is ACTIVE 
+[03/24/20, 19:03:50:946] info: [API-Q] (TPFGVDSR1) 1767a128-1585073030.557 conversations.mark is RESOLVED 
+[03/24/20, 19:04:01:648] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 19:04:01:701] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:01:761] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:03:554] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 19:04:03:618] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:03:636] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:03:716] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:04:03:717] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:04:03:717] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:04:03:717] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:04:09:022] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:09:022] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for DPT2BDH6C: 1 
+[03/24/20, 19:04:09:031] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:09:031] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:04:09:031] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073048.002000, immediate: undefined 
+[03/24/20, 19:04:09:032] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:04:09:036] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 2932.817104110229ms 
+[03/24/20, 19:04:09:038] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073048.002000 
+[03/24/20, 19:04:09:039] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for DPT2BDH6C: 0 
+[03/24/20, 19:04:09:106] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:04:09:159] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:04:09:170] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:04:11:969] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:04:11:990] info: [API-Q] (TPFGVDSR1) 1767a128-1585073051.981 conversations.mark called with reason: viewed 
+[03/24/20, 19:04:11:992] info: [API-Q] (TPFGVDSR1) 1767a128-1585073051.981 conversations.mark is ENQUEUED 
+[03/24/20, 19:04:11:993] info: [API-Q] (TPFGVDSR1) 1767a128-1585073051.981 conversations.mark is ACTIVE 
+[03/24/20, 19:04:12:602] info: [API-Q] (TPFGVDSR1) 1767a128-1585073051.981 conversations.mark is RESOLVED 
+[03/24/20, 19:04:26:196] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[03/24/20, 19:04:30:751] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:30:751] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for DPT2BDH6C: 1 
+[03/24/20, 19:04:30:766] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:30:766] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:04:30:767] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073070.002400, immediate: undefined 
+[03/24/20, 19:04:30:767] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:04:30:771] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 289.25752325713484ms 
+[03/24/20, 19:04:30:776] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073070.002400 
+[03/24/20, 19:04:30:777] info: [COUNTS] (TPFGVDSR1) Updated unread_cnt for DPT2BDH6C: 0 
+[03/24/20, 19:04:30:834] info: [DESKTOP-MIDDLEWARE] (TPFGVDSR1) Forwarding redux payload to desktop ["unreads"] 
+[03/24/20, 19:04:30:884] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:04:30:888] info: Store: REDUX_UPDATE_FROM_WEBAPP (TPFGVDSR1) Changed keys [unreads] 
+[03/24/20, 19:04:31:062] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:04:31:087] info: [API-Q] (TPFGVDSR1) 1767a128-1585073071.083 conversations.mark called with reason: viewed 
+[03/24/20, 19:04:31:088] info: [API-Q] (TPFGVDSR1) 1767a128-1585073071.083 conversations.mark is ENQUEUED 
+[03/24/20, 19:04:31:088] info: [API-Q] (TPFGVDSR1) 1767a128-1585073071.083 conversations.mark is ACTIVE 
+[03/24/20, 19:04:31:783] info: [API-Q] (TPFGVDSR1) 1767a128-1585073071.083 conversations.mark is RESOLVED 
+[03/24/20, 19:04:36:202] info: Store: SET_SYSTEM_IDLE active 
+[03/24/20, 19:04:38:500] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to DPT2BDH6C via HTTP, clientMsgId: 3f3bbcf2-ecd7-40bb-9f97-a6fbb6f66df7 
+[03/24/20, 19:04:38:500] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId 3f3bbcf2-ecd7-40bb-9f97-a6fbb6f66df7, queue has 1 messages 
+[03/24/20, 19:04:38:500] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId 3f3bbcf2-ecd7-40bb-9f97-a6fbb6f66df7 
+[03/24/20, 19:04:38:503] info: [API-Q] (TPFGVDSR1) 1767a128-1585073078.499 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:04:38:503] info: [API-Q] (TPFGVDSR1) 1767a128-1585073078.499 chat.postMessage is ENQUEUED 
+[03/24/20, 19:04:38:504] info: [API-Q] (TPFGVDSR1) 1767a128-1585073078.499 chat.postMessage is ACTIVE 
+[03/24/20, 19:04:38:550] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:04:38:556] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:38:556] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:38:556] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:04:39:119] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId 3f3bbcf2-ecd7-40bb-9f97-a6fbb6f66df7 in DPT2BDH6C with ts 1585073078.002600 
+[03/24/20, 19:04:39:132] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId 3f3bbcf2-ecd7-40bb-9f97-a6fbb6f66df7 
+[03/24/20, 19:04:39:135] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:39:136] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:39:136] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:04:39:136] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073078.002600, immediate: undefined 
+[03/24/20, 19:04:39:148] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 2483.7097183121946ms 
+[03/24/20, 19:04:39:152] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because message removed 
+[03/24/20, 19:04:39:153] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073078.002600 
+[03/24/20, 19:04:39:254] info: [API-Q] (TPFGVDSR1) 1767a128-1585073078.499 chat.postMessage is RESOLVED 
+[03/24/20, 19:04:39:836] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned 
+[03/24/20, 19:04:41:670] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:04:41:686] info: [API-Q] (TPFGVDSR1) 1767a128-1585073081.680 conversations.mark called with reason: viewed 
+[03/24/20, 19:04:41:686] info: [API-Q] (TPFGVDSR1) 1767a128-1585073081.680 conversations.mark is ENQUEUED 
+[03/24/20, 19:04:41:687] info: [API-Q] (TPFGVDSR1) 1767a128-1585073081.680 conversations.mark is ACTIVE 
+[03/24/20, 19:04:42:427] info: [API-Q] (TPFGVDSR1) 1767a128-1585073081.680 conversations.mark is RESOLVED 
+[03/24/20, 19:04:46:851] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to DPT2BDH6C via HTTP, clientMsgId: 14ac7bce-934d-492d-9c8d-8ba0a7961874 
+[03/24/20, 19:04:46:852] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId 14ac7bce-934d-492d-9c8d-8ba0a7961874, queue has 1 messages 
+[03/24/20, 19:04:46:852] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId 14ac7bce-934d-492d-9c8d-8ba0a7961874 
+[03/24/20, 19:04:46:854] info: [API-Q] (TPFGVDSR1) 1767a128-1585073086.851 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:04:46:854] info: [API-Q] (TPFGVDSR1) 1767a128-1585073086.851 chat.postMessage is ENQUEUED 
+[03/24/20, 19:04:46:855] info: [API-Q] (TPFGVDSR1) 1767a128-1585073086.851 chat.postMessage is ACTIVE 
+[03/24/20, 19:04:46:891] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:04:46:899] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:46:900] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:46:900] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:04:47:402] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId 14ac7bce-934d-492d-9c8d-8ba0a7961874 in DPT2BDH6C with ts 1585073087.002900 
+[03/24/20, 19:04:47:412] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId 14ac7bce-934d-492d-9c8d-8ba0a7961874 
+[03/24/20, 19:04:47:417] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:47:418] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:47:418] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:04:47:418] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073087.002900, immediate: undefined 
+[03/24/20, 19:04:47:428] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 3742.0603735133586ms 
+[03/24/20, 19:04:47:434] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073087.002900 
+[03/24/20, 19:04:47:554] info: [API-Q] (TPFGVDSR1) 1767a128-1585073086.851 chat.postMessage is RESOLVED 
+[03/24/20, 19:04:48:157] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned 
+[03/24/20, 19:04:50:944] info: [DND] (TSEDTE2H0) Checking for changes in DND status for the following members: USV3B6831,USTKTC9K6,USSTCPY2G,USTFBRX29,USH0DHXGB,USFULS5BM,USTB4S64V 
+[03/24/20, 19:04:50:945] info: [DND] (TSEDTE2H0) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:04:51:170] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:04:51:185] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.179 conversations.mark called with reason: viewed 
+[03/24/20, 19:04:51:185] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.179 conversations.mark is ENQUEUED 
+[03/24/20, 19:04:51:185] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.179 conversations.mark is ACTIVE 
+[03/24/20, 19:04:51:528] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.179 conversations.mark is RESOLVED 
+[03/24/20, 19:04:51:635] info: [ACTION:MESSAGE] (TPFGVDSR1) Sent a message to DPT2BDH6C via HTTP, clientMsgId: 9fe74420-03cb-4f9d-b496-e55cd9e4373f 
+[03/24/20, 19:04:51:635] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Enqueueing message with clientMsgId 9fe74420-03cb-4f9d-b496-e55cd9e4373f, queue has 1 messages 
+[03/24/20, 19:04:51:635] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Sending message with clientMsgId 9fe74420-03cb-4f9d-b496-e55cd9e4373f 
+[03/24/20, 19:04:51:637] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.635 chat.postMessage called with reason: webapp_message_send 
+[03/24/20, 19:04:51:638] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.635 chat.postMessage is ENQUEUED 
+[03/24/20, 19:04:51:638] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.635 chat.postMessage is ACTIVE 
+[03/24/20, 19:04:51:640] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Shifting queue, now has 0 messages 
+[03/24/20, 19:04:51:654] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:51:654] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:51:656] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:04:52:198] info: [ACTION:MESSAGE] (TPFGVDSR1) Resolved a message with clientMsgId 9fe74420-03cb-4f9d-b496-e55cd9e4373f in DPT2BDH6C with ts 1585073092.003200 
+[03/24/20, 19:04:52:210] info: [ACTION:MESSAGE-Q] (TPFGVDSR1) Resolving active request with clientMsgId 9fe74420-03cb-4f9d-b496-e55cd9e4373f 
+[03/24/20, 19:04:52:217] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because (1) timestamps added 
+[03/24/20, 19:04:52:218] info: [UNREAD-COUNTS] (TPFGVDSR1) Checking unreads in DPT2BDH6C after a new message 
+[03/24/20, 19:04:52:218] info: [CHECK-UNREADS] (TPFGVDSR1) Marking DPT2BDH6C because unread line is visible 
+[03/24/20, 19:04:52:218] info: [SET-LAST-READ] (TPFGVDSR1) markLastRead DPT2BDH6C:1585073092.003200, immediate: undefined 
+[03/24/20, 19:04:52:227] info: [SET-LAST-READ] (TPFGVDSR1) delaying DPT2BDH6C mark by 3577.709870134325ms 
+[03/24/20, 19:04:52:230] info: [UNREAD-COUNTS] (TPFGVDSR1) Counting unreads in DPT2BDH6C because last_read changed to 1585073092.003200 
+[03/24/20, 19:04:52:326] info: [API-Q] (TPFGVDSR1) 1767a128-1585073091.635 chat.postMessage is RESOLVED 
+[03/24/20, 19:04:52:885] warn: SpellChecker::updateDetectedLanguage: cld could not detect language correctly, empty result returned 
+[03/24/20, 19:04:52:943] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 19:04:53:032] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:53:041] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:53:961] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 19:04:54:022] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:54:099] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:04:54:099] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because attention not on chat (window_not_focused) 
+[03/24/20, 19:04:54:116] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:04:54:219] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:04:54:220] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:04:55:803] info: [SET-LAST-READ] (TPFGVDSR1) delay resolved, marking DPT2BDH6C with API 
+[03/24/20, 19:04:55:820] info: [API-Q] (TPFGVDSR1) 1767a128-1585073095.813 conversations.mark called with reason: viewed 
+[03/24/20, 19:04:55:820] info: [API-Q] (TPFGVDSR1) 1767a128-1585073095.813 conversations.mark is ENQUEUED 
+[03/24/20, 19:04:55:821] info: [API-Q] (TPFGVDSR1) 1767a128-1585073095.813 conversations.mark is ACTIVE 
+[03/24/20, 19:04:56:110] info: [API-Q] (TPFGVDSR1) 1767a128-1585073095.813 conversations.mark is RESOLVED 
+[03/24/20, 19:05:16:258] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[03/24/20, 19:05:34:923] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 19:05:35:042] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:05:35:049] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:05:36:247] info: Store: SET_SYSTEM_IDLE active 
+[03/24/20, 19:05:46:659] info: [FOCUS-EVENT] Client window focused 
+[03/24/20, 19:05:46:734] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:05:46:766] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:05:46:871] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:05:46:872] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:05:46:872] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:05:46:872] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because last_read >= latest && channel is read 
+[03/24/20, 19:05:48:538] info: [FOCUS-EVENT] Client window blurred 
+[03/24/20, 19:05:48:638] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:05:48:664] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[03/24/20, 19:05:48:705] info: [CHECK-UNREADS] (TPFGVDSR1) Checking unreads after window became focused 
+[03/24/20, 19:05:48:705] info: [CHECK-UNREADS] (TPFGVDSR1) Not marking DPT2BDH6C because attention not on chat (window_not_focused) 
+[03/24/20, 19:06:43:758] info: [DND] (T03KF4NH2) Checking for changes in DND status for the following members: UN22VSX17,U03KF4NH4,UDSNQN0TS,UCZHP4Q5Q,U0429FZE8,U94LQ47L7,UCZ104G1X,UN8F05W3F 
+[03/24/20, 19:06:43:758] info: [DND] (T03KF4NH2) Will check for changes in DND status again in 5 minutes 
+[03/24/20, 19:06:50:997] info: [DND] (TPFGVDSR1) Checking for changes in DND status for the following members: UPT2BCF3J,UPUT4LFEK,UPE7NU5K4,UPT257TE1,UPE8A1W02,UPT19MF5E,UPFHK4TL3,UPFHEN2M9,UPT1W9ZDE,UPT2APJTX 
+[03/24/20, 19:06:50:998] info: [DND] (TPFGVDSR1) Will check for changes in DND status again in 5 minutes 

@@ -1,3 +1,24 @@
-2020/03/24-18:44:45.934 3e2 Reusing MANIFEST /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/03/24-18:44:45.934 3e2 Recovering log #875
-2020/03/24-18:44:45.936 3e2 Reusing old log /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000875.log 
+2020/04/01-13:23:59.056 3ed Reusing MANIFEST /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/01-13:23:59.056 3ed Recovering log #926
+2020/04/01-13:23:59.058 3ed Reusing old log /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000926.log 
+2020/04/01-14:24:02.481 1053 Level-0 table #930: started
+2020/04/01-14:24:02.507 1053 Level-0 table #930: 1383961 bytes OK
+2020/04/01-14:24:02.511 1053 Delete type=0 #926
+2020/04/03-09:14:52.350 1053 Level-0 table #932: started
+2020/04/03-09:14:52.366 1053 Level-0 table #932: 1416445 bytes OK
+2020/04/03-09:14:52.371 1053 Delete type=0 #929
+2020/04/03-09:14:52.371 1053 Compacting 4@0 + 1@1 files
+2020/04/03-09:14:52.400 1053 Generated table #933@0: 16 keys, 666835 bytes
+2020/04/03-09:14:52.400 1053 Compacted 4@0 + 1@1 files => 666835 bytes
+2020/04/03-09:14:52.404 1053 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/03-09:14:52.404 1053 Delete type=2 #924
+2020/04/03-09:14:52.404 1053 Delete type=2 #930
+2020/04/03-09:14:52.404 1053 Delete type=2 #932
+2020/04/03-09:14:52.405 1053 Delete type=2 #927
+2020/04/03-09:14:52.405 1053 Delete type=2 #922
+2020/04/03-11:27:54.633 1053 Level-0 table #935: started
+2020/04/03-11:27:54.650 1053 Level-0 table #935: 1427734 bytes OK
+2020/04/03-11:27:54.654 1053 Delete type=0 #931
+2020/04/04-16:18:40.367 1053 Level-0 table #937: started
+2020/04/04-16:18:40.383 1053 Level-0 table #937: 1481913 bytes OK
+2020/04/04-16:18:40.400 1053 Delete type=0 #934

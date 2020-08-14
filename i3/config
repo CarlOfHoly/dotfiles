@@ -177,6 +177,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 exec xbindkeys -f ~/.xbindkeysrc
+exec xset r rate 300 50
 exec --no-startup-id firefox
 exec --no-startup-id code
 # exec --no-startup-id spotify --force-device-scale-factor=1.7 

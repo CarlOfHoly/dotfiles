@@ -1,6 +1,0 @@
-2020/10/29-17:48:15.473 43b Reusing MANIFEST /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/29-17:48:15.473 43b Recovering log #1583
-2020/10/29-17:48:15.476 43b Reusing old log /home/carl/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/001583.log 
-2020/10/29-22:16:47.097 1f2d Level-0 table #1588: started
-2020/10/29-22:16:47.113 1f2d Level-0 table #1588: 1466264 bytes OK
-2020/10/29-22:16:47.118 1f2d Delete type=0 #1583

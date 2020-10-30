@@ -103,5 +103,8 @@ export PATH=$PATH:~/.local/bin
 
 eval $(thefuck --alias)
 
+source /usr/share/fzf/key-bindings.zsh
+source /usr/share/fzf/completion.zsh
+
 # Load zsh-syntax-highlighting; should be last.
 source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

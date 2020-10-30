@@ -10,6 +10,8 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
 Plug 'mhinz/vim-signify'
 Plug 'norcalli/nvim-colorizer.lua'
+Plug 'justinmk/vim-sneak'
+Plug 'unblevable/quick-scope'
 call plug#end()
 
 set termguicolors
@@ -24,6 +26,8 @@ let g:coc_global_extensions = [
 source $HOME/.config/nvim/plug-config/coc.vim
 source $HOME/.config/nvim/plug-config/fzf.vim
 source $HOME/.config/nvim/plug-config/rainbow.vim
+source $HOME/.config/nvim/plug-config/sneak.vim
+source $HOME/.config/nvim/plug-config/quickscope.vim
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua
 
 set expandtab
@@ -31,3 +35,4 @@ set smarttab
 set shiftwidth=2
 set softtabstop=2
 set tabstop=2
+

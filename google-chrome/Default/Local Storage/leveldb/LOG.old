@@ -1,0 +1,12 @@
+2020/09/30-09:07:36.127 58c1 Reusing MANIFEST /home/carl/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/30-09:07:36.127 58c1 Recovering log #3
+2020/09/30-09:07:36.127 58c1 Reusing old log /home/carl/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2020/09/30-09:33:35.177 5c2a Level-0 table #5: started
+2020/09/30-09:33:35.187 5c2a Level-0 table #5: 17194 bytes OK
+2020/09/30-09:33:35.192 5c2a Delete type=0 #3
+2020/09/30-09:34:13.959 5c2a Level-0 table #7: started
+2020/09/30-09:34:13.992 5c2a Level-0 table #7: 17242 bytes OK
+2020/09/30-09:34:13.994 5c2a Delete type=0 #4
+2020/09/30-10:20:19.686 5c2a Level-0 table #9: started
+2020/09/30-10:20:19.695 5c2a Level-0 table #9: 21573 bytes OK
+2020/09/30-10:20:19.700 5c2a Delete type=0 #6

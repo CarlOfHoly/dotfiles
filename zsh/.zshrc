@@ -95,6 +95,13 @@ fi
 # Setting global environmental variables
 export SERVER=64.227.73.190
 
+# Setting OW stuff
+export OW4_ADDRESS='http://online.ntnu.no'
+# export OW4_SSO_CLIENT_ID='984239'
+export OW4_SSO_CLIENT_ID='181001'
+export PATH=$PATH:~/.local/bin
+
+eval $(thefuck --alias)
 
 # Load zsh-syntax-highlighting; should be last.
 source ~/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

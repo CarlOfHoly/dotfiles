@@ -9,7 +9,17 @@ ShowMenuBarByDefault=false
 
 [MainWindow]
 Height 1000=954
+Height 360=314
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABcIAAAO6AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1500=1474
+Width 1500=732
+Width 640=614
+eDP1 DP1 Height 1000=954
+eDP1 DP1 Width 1500=390
+eDP1 DP1 XPosition=13
+eDP1 DP1 YPosition=33
+eDP1 Height 1000=954
+eDP1 Width 1500=1474
+eDP1 XPosition=13
+eDP1 YPosition=33

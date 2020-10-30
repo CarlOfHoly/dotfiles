@@ -1,3 +1,7 @@
-2020/08/10-14:34:07.162 35e2 Reusing MANIFEST /home/carl/.config/figma-linux/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/10-14:34:07.162 35e2 Recovering log #3
-2020/08/10-14:34:07.167 35e2 Reusing old log /home/carl/.config/figma-linux/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000003.log 
+2020/10/06-09:07:03.185 8b8e Reusing MANIFEST /home/carl/.config/figma-linux/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/06-09:07:03.185 8b8e Recovering log #3
+2020/10/06-09:07:03.187 8b8e Reusing old log /home/carl/.config/figma-linux/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000003.log 
+2020/10/06-09:07:03.198 8bd0 Level-0 table #5: started
+2020/10/06-09:07:03.202 8bd0 Level-0 table #5: 21684 bytes OK
+2020/10/06-09:07:03.206 8bd0 Delete type=0 #3
+2020/10/06-09:07:03.207 8bd0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

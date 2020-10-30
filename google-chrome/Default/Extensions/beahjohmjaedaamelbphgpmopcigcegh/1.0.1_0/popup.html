@@ -1,0 +1,110 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+  <head>
+    <title>Prank 'em</title>
+    <style>
+      body {
+        font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+        font-size: 100%;
+        width:700px;
+          padding:20px;
+      }
+      h1 {
+          margin-top:0;
+      }
+      h3 {
+          margin-top:30px;
+      }
+      label {
+          width:130px;
+          display:inline-block;
+      }
+      .elements, .full {
+          /*margin-top:15px;*/
+      }
+      #status {
+        /* avoid an excessively wide status text */
+        white-space: pre;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        max-width: 800px;
+      }
+      .settings ul {
+          padding-left:0;
+      }
+      .settings li {
+          list-style-type: none;
+      }
+      .description {
+          display:none;
+          margin:5px 0 15px;
+      }
+      .description-trigger {
+          display:inline-block;
+          margin-right:10px;
+      }
+      .description-show {
+          display:block;
+      }
+      
+      .all, .pieces {
+          border:1px solid #ccc;
+          padding:0 10px;
+      }
+      .all {
+          border-bottom-color:#fff; 
+      }
+      .pieces {
+          
+      }
+      .showme {
+          display:none;
+      }
+    </style>
+    <h1>Prank 'em</h1>
+    <div class="instructions showme">
+        <!-- <p>Pranks need to be subtle to truly mess with peoples minds.  Pranks that are on all the time and at full force are easy to spot.  Pranks that only happen every now and then, make people question their sanity.  Configure the pranks below that you want to apply.  You can scale how often they get applied.</p> -->
+        <p>If you are the pranker, configure the settings below for the "torture" level of your victim.</p>
+        <p>If you are the prankee, you likely found this page as a result of weird things happening in your browser and you went looking around.  Someone installed this as a prank on you. There is no lasting "damage", no data was collected or sent.  It is all in good fun. :)</p>
+    </div>
+    <a href="#d" class="showem">Show instructions</a>
+    <section class="settings">
+        
+        <h2 class="showme">Settings</h2>
+        <p class="showme">You can adjust each prank individually. Remember, the more frequently it shows up, the more likely they will realize something is going on. Inversely, if you do it less often the longer it will take them to get annoyed but you don't get to laugh at them as often. The choice is yours :)</p>
+        <!-- Global percentage -->
+        <section class="settings__element">
+            <h3>Random Parts</h3>
+            <p>These will apply to random parts of the page every page load (image, link, paragraph, etc). The percentage is for how many parts of the page it will apply to.</p>
+            <div class="elements-all all"></div>
+            <div class="elements pieces"></div>
+        </section>
+        
+        <section class="settings__full">
+            <h3>Full page</h3>
+            <p>These apply to the whole page.</p>
+            <div class="full-all all"></div>
+            <div class="full pieces"></div>
+        </section>
+    </section>
+
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
+     -->
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div id="status"></div>
+    <img id="image-result" hidden>
+  </body>
+</html>
+

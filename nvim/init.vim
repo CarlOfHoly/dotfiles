@@ -13,6 +13,8 @@ Plug 'norcalli/nvim-colorizer.lua'
 Plug 'justinmk/vim-sneak'
 Plug 'unblevable/quick-scope'
 Plug 'mhinz/vim-startify'
+Plug 'leafgarland/typescript-vim'
+Plug 'peitalin/vim-jsx-typescript'
 call plug#end()
 
 set termguicolors
@@ -30,6 +32,7 @@ source $HOME/.config/nvim/plug-config/rainbow.vim
 source $HOME/.config/nvim/plug-config/sneak.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/start-screen.vim
+source $HOME/.config/nvim/plug-config/tsx.vim
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua
 
 set expandtab

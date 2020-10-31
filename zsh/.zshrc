@@ -94,6 +94,7 @@ fi
 
 # Setting global environmental variables
 export SERVER=64.227.73.190
+export MYVIMRC=~/.config/nvim/init.vim
 
 # Setting OW stuff
 export OW4_ADDRESS='http://online.ntnu.no'

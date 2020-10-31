@@ -15,29 +15,25 @@ Plug 'unblevable/quick-scope'
 Plug 'mhinz/vim-startify'
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
+Plug 'honza/vim-snippets'
 call plug#end()
 
 set termguicolors
 colorscheme nord
-let mapleader=" "
 
 let g:coc_global_extensions = [
 	\ 'coc-tsserver',
-	\ 'coc-eslint'
+	\ 'coc-eslint',
+  \ 'coc-snippets'
 	\ ]
 
 source $HOME/.config/nvim/plug-config/coc.vim
+source $HOME/.config/nvim/general/settings.vim
 source $HOME/.config/nvim/plug-config/fzf.vim
 source $HOME/.config/nvim/plug-config/rainbow.vim
 source $HOME/.config/nvim/plug-config/sneak.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/start-screen.vim
 source $HOME/.config/nvim/plug-config/tsx.vim
+source $HOME/.config/nvim/plug-config/snippets.vim
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua
-
-set expandtab
-set smarttab
-set shiftwidth=2
-set softtabstop=2
-set tabstop=2
-

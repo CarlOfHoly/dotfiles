@@ -14,3 +14,6 @@ configstore*
 google-chrome*
 sanity*
 nvim/session*
+zsh/.zsh_history
+zsh/.zcompdump
+zsh/zsh-syntax-highlighting

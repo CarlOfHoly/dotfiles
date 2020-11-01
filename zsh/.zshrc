@@ -101,6 +101,8 @@ export OW4_ADDRESS='http://online.ntnu.no'
 # export OW4_SSO_CLIENT_ID='984239'
 export OW4_SSO_CLIENT_ID='181001'
 export PATH=$PATH:~/.local/bin
+export VISUAL=nvim
+export EDITOR=nvim
 
 eval $(thefuck --alias)
 

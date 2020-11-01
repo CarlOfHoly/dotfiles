@@ -16,6 +16,7 @@ Plug 'mhinz/vim-startify'
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
 Plug 'honza/vim-snippets'
+Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 call plug#end()
 
 set termguicolors
@@ -36,4 +37,6 @@ source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/start-screen.vim
 source $HOME/.config/nvim/plug-config/tsx.vim
 source $HOME/.config/nvim/plug-config/snippets.vim
+source $HOME/.config/nvim/keys/mappings.vim
+source $HOME/.config/nvim/plug-config/rnvimr.vim
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua

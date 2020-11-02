@@ -1,4 +1,5 @@
 call plug#begin()
+Plug 'tpope/vim-surround'
 Plug 'arcticicestudio/nord-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }

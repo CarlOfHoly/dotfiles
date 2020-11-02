@@ -4,6 +4,7 @@ font pango:monospace 8
 exec --no-startup-id setxkbmap -option "caps:swapescape"
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
+exec_always --no-startup-id autotiling
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod

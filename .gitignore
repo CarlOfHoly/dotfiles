@@ -8,11 +8,11 @@ Slack/
 Brave*
 figma-linux*
 yarn*
-coc*
 Cypress*
 configstore*
 google-chrome*
 sanity*
+coc/
 nvim/session*
 zsh/.zsh_history
 zsh/.zcompdump

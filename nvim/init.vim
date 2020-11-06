@@ -1,4 +1,5 @@
 call plug#begin()
+Plug 'tomtom/tcomment_vim'
 Plug 'tpope/vim-surround'
 Plug 'arcticicestudio/nord-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}

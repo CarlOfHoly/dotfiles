@@ -140,7 +140,7 @@ label-urgent-padding = 4
 
 [module/wireless-network]
 type = internal/network
-interface = wlp59s0
+interface = wlp3s0
 interval = 3.0
 
 format-connected-prefix = " "
@@ -223,37 +223,37 @@ label-muted = "   mute   "
 ramp-volume-0 = 
 ramp-volume-1 = 
 
-[module/battery]
-type = internal/battery
-battery = BAT0
-adapter = AC
-full-at = 97
-format-full-background = ${colors.background-mod2}
-format-charging-background = ${colors.background-mod1}
-format-charging = "⁣   <animation-charging> <label-charging>"
-format-charging-underline = #ffb52a
-format-charging-suffix = "   "
-format-discharging-background = ${colors.background-alt}
-format-discharging = "⁣  <ramp-capacity> <label-discharging>  "
-format-discharging-underline = ${self.format-charging-underline}
-format-full = 
-format-full-prefix-foreground = ${colors.foreground-alt}
-format-full-underline = ${self.format-charging-underline}
-
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
-ramp-capacity-3 = 
-ramp-capacity-4 = 
-ramp-capacity-foreground = ${colors.foreground-alt}
-
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
-animation-charging-3 = 
-animation-charging-4 = 
-animation-charging-foreground = ${colors.foreground-alt}
-animation-charging-framerate = 750
+;[module/battery]
+;type = internal/battery
+;battery = BAT0
+;adapter = AC
+;full-at = 97
+;format-full-background = ${colors.background-mod2}
+;format-charging-background = ${colors.background-mod1}
+;format-charging = "⁣   <animation-charging> <label-charging>"
+;format-charging-underline = #ffb52a
+;format-charging-suffix = "   "
+;format-discharging-background = ${colors.background-alt}
+;format-discharging = "⁣  <ramp-capacity> <label-discharging>  "
+;format-discharging-underline = ${self.format-charging-underline}
+;format-full = 
+;format-full-prefix-foreground = ${colors.foreground-alt}
+;format-full-underline = ${self.format-charging-underline}
+;
+;ramp-capacity-0 = 
+;ramp-capacity-1 = 
+;ramp-capacity-2 = 
+;ramp-capacity-3 = 
+;ramp-capacity-4 = 
+;ramp-capacity-foreground = ${colors.foreground-alt}
+;
+;animation-charging-0 = 
+;animation-charging-1 = 
+;animation-charging-2 = 
+;animation-charging-3 = 
+;animation-charging-4 = 
+;animation-charging-foreground = ${colors.foreground-alt}
+;animation-charging-framerate = 750
 
 [module/powermenu]
 type = custom/menu

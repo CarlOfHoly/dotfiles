@@ -24,6 +24,9 @@ call plug#end()
 set termguicolors
 colorscheme nord
 
+let g:python_host_prog = '/usr/bin/python2'
+let g:python3_host_prog = '/usr/bin/python3'
+
 let g:coc_global_extensions = [
 	\ 'coc-tsserver',
 	\ 'coc-eslint',

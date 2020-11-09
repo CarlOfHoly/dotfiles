@@ -1,4 +1,5 @@
 Code/
+pulse/
 GIMP/
 Postman/
 htop/
@@ -17,3 +18,8 @@ nvim/session*
 zsh/.zsh_history
 zsh/.zcompdump
 zsh/zsh-syntax-highlighting
+ranger/plugins/
+thefuck/*
+chromium/
+spotify/
+tidal-hifi/

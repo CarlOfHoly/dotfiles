@@ -31,7 +31,8 @@ let g:coc_global_extensions = [
 	\ 'coc-tsserver',
 	\ 'coc-eslint',
   \ 'coc-snippets',
-  \ 'coc-metals'
+  \ 'coc-metals',
+  \ 'coc-eslint'
 	\ ]
 
 source $HOME/.config/nvim/plug-config/coc.vim
